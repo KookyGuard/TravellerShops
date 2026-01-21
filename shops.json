@@ -1,0 +1,6002 @@
+[
+  {
+    "name": "Cotton Fashion",
+    "lat": 13.134498383712955,
+    "lon": 77.61319296565384,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Street District",
+    "lat": 12.974431368598616,
+    "lon": 77.50168795310296,
+    "category": "Formal"
+  },
+  {
+    "name": "Street Apparel",
+    "lat": 13.097332940067208,
+    "lon": 77.6400099610081,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Label Co",
+    "lat": 12.90281734941155,
+    "lon": 77.60350731724238,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Ethnic Gallery",
+    "lat": 12.885562624209225,
+    "lon": 77.67867779081848,
+    "category": "Denim"
+  },
+  {
+    "name": "Style Works",
+    "lat": 12.976440872574242,
+    "lon": 77.74390792520413,
+    "category": "Streetwear"
+  },
+  {
+    "name": "House Wear",
+    "lat": 13.011479399649359,
+    "lon": 77.48569658561388,
+    "category": "Luxury"
+  },
+  {
+    "name": "Core Centre",
+    "lat": 13.089569497609977,
+    "lon": 77.63599628212566,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Vintage Gallery",
+    "lat": 12.83891855591273,
+    "lon": 77.47628743535849,
+    "category": "Luxury"
+  },
+  {
+    "name": "Vintage Room",
+    "lat": 12.97373015858144,
+    "lon": 77.77364835764755,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Co Centre",
+    "lat": 13.13675911994701,
+    "lon": 77.79809549087506,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Ethnic Corner",
+    "lat": 12.943012972424283,
+    "lon": 77.6168683339084,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Denim Wear",
+    "lat": 12.932260669047686,
+    "lon": 77.47094103331244,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Boutique",
+    "lat": 13.004427963622083,
+    "lon": 77.72476352174375,
+    "category": "Denim"
+  },
+  {
+    "name": "Sneaker Store",
+    "lat": 12.984051816656988,
+    "lon": 77.70048801391432,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Capsule Store",
+    "lat": 13.00684502133519,
+    "lon": 77.74156038396846,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Fab Factory",
+    "lat": 12.80366616224021,
+    "lon": 77.68635155999802,
+    "category": "Denim"
+  },
+  {
+    "name": "Urban Store",
+    "lat": 12.823443761391335,
+    "lon": 77.6370133232599,
+    "category": "Formal"
+  },
+  {
+    "name": "Active Market",
+    "lat": 12.885678091030055,
+    "lon": 77.53797063701467,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Urban Market",
+    "lat": 12.96355088189547,
+    "lon": 77.48089918553407,
+    "category": "Luxury"
+  },
+  {
+    "name": "Casual World",
+    "lat": 12.810331588258489,
+    "lon": 77.73051202062103,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Silk Lane",
+    "lat": 13.12276423322653,
+    "lon": 77.60549065251402,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Maxx Gallery",
+    "lat": 12.976291248402779,
+    "lon": 77.43443512200766,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Trend Hub",
+    "lat": 12.99329705754116,
+    "lon": 77.78393833100428,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Vintage Shop",
+    "lat": 12.902636855520667,
+    "lon": 77.7769129699929,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Elite Nation",
+    "lat": 12.846705400534617,
+    "lon": 77.58771021905915,
+    "category": "Formal"
+  },
+  {
+    "name": "Sneaker Collective",
+    "lat": 12.854327332533916,
+    "lon": 77.68178474286141,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Prime Corner",
+    "lat": 13.004427107903755,
+    "lon": 77.48404783600219,
+    "category": "Formal"
+  },
+  {
+    "name": "Fit Market",
+    "lat": 12.872850510593985,
+    "lon": 77.48033369231501,
+    "category": "Denim"
+  },
+  {
+    "name": "Modern Fashion",
+    "lat": 12.80847232355457,
+    "lon": 77.769579177662,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Elite Store",
+    "lat": 13.132535020257802,
+    "lon": 77.46758284527476,
+    "category": "Luxury"
+  },
+  {
+    "name": "Fit Lab",
+    "lat": 13.106441197148095,
+    "lon": 77.71787375431406,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Style Closet",
+    "lat": 12.873924447431731,
+    "lon": 77.74184825300802,
+    "category": "Denim"
+  },
+  {
+    "name": "Denim Studio",
+    "lat": 13.039869801585466,
+    "lon": 77.49857757866044,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Cotton House",
+    "lat": 13.131412792687232,
+    "lon": 77.74763872146467,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Capsule Store",
+    "lat": 13.108390707026139,
+    "lon": 77.66684085558873,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Urban Closet",
+    "lat": 13.06366484481528,
+    "lon": 77.5971216749597,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Sneaker Store",
+    "lat": 12.82901340670902,
+    "lon": 77.43325577418877,
+    "category": "Casual"
+  },
+  {
+    "name": "Vintage Collective",
+    "lat": 13.076923692853947,
+    "lon": 77.63381315751124,
+    "category": "Denim"
+  },
+  {
+    "name": "Classic Room",
+    "lat": 13.061632440576153,
+    "lon": 77.66485245705817,
+    "category": "Formal"
+  },
+  {
+    "name": "Studio Store",
+    "lat": 13.00247193338432,
+    "lon": 77.46780903873557,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Maxx Outlet",
+    "lat": 12.92747573225013,
+    "lon": 77.45765921259128,
+    "category": "Denim"
+  },
+  {
+    "name": "Trend Gallery",
+    "lat": 12.930829524872628,
+    "lon": 77.6430889877197,
+    "category": "Denim"
+  },
+  {
+    "name": "Silk Shop",
+    "lat": 13.033863881371754,
+    "lon": 77.55545213581536,
+    "category": "Luxury"
+  },
+  {
+    "name": "Maxx Works",
+    "lat": 12.944210818052511,
+    "lon": 77.42002252671347,
+    "category": "Denim"
+  },
+  {
+    "name": "Trend Room",
+    "lat": 12.82490084799955,
+    "lon": 77.52735814033038,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Casual Lane",
+    "lat": 13.124440705077973,
+    "lon": 77.73581526179144,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Casual House",
+    "lat": 13.10879244192017,
+    "lon": 77.57152217653696,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Label World",
+    "lat": 12.850833236125917,
+    "lon": 77.76728150299652,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Boutique",
+    "lat": 13.088071723718654,
+    "lon": 77.62901480884878,
+    "category": "Formal"
+  },
+  {
+    "name": "Label Market",
+    "lat": 13.13967049042193,
+    "lon": 77.7763082307656,
+    "category": "Streetwear"
+  },
+  {
+    "name": "City Closet",
+    "lat": 12.980867217949182,
+    "lon": 77.60131338097193,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Fab Gallery",
+    "lat": 12.814013840569817,
+    "lon": 77.74862005807864,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Prime Centre",
+    "lat": 12.85320755863553,
+    "lon": 77.585496607619,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Metro Hub",
+    "lat": 12.866794383733591,
+    "lon": 77.58351504142405,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Ethnic World",
+    "lat": 12.80446834306134,
+    "lon": 77.72707521878661,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Sneaker Point",
+    "lat": 13.041156246370285,
+    "lon": 77.77251830894105,
+    "category": "Luxury"
+  },
+  {
+    "name": "Trend Centre",
+    "lat": 12.929838402959568,
+    "lon": 77.74616127041203,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Silk Market",
+    "lat": 13.043597523836612,
+    "lon": 77.63299429520607,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Label Shop",
+    "lat": 12.809520860325108,
+    "lon": 77.68076014218403,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Studio Works",
+    "lat": 13.040636996863721,
+    "lon": 77.76197890649368,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Luxury Room",
+    "lat": 13.000367839380612,
+    "lon": 77.46938949656759,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Ethnic Outlet",
+    "lat": 12.897473319695147,
+    "lon": 77.69304675242992,
+    "category": "Formal"
+  },
+  {
+    "name": "Sport Collective",
+    "lat": 12.925129044134568,
+    "lon": 77.77941505314551,
+    "category": "Casual"
+  },
+  {
+    "name": "Ethnic District",
+    "lat": 13.038877216215306,
+    "lon": 77.7667399220341,
+    "category": "Casual"
+  },
+  {
+    "name": "Prime Centre",
+    "lat": 12.83520247831794,
+    "lon": 77.60190539955644,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Sneaker World",
+    "lat": 13.056457818014557,
+    "lon": 77.52200919916758,
+    "category": "Luxury"
+  },
+  {
+    "name": "Style Closet",
+    "lat": 13.135874773775498,
+    "lon": 77.48084108186539,
+    "category": "Formal"
+  },
+  {
+    "name": "Core Fashion",
+    "lat": 13.010286893293271,
+    "lon": 77.46263982175587,
+    "category": "Casual"
+  },
+  {
+    "name": "Label Centre",
+    "lat": 13.129177882582264,
+    "lon": 77.44426719808595,
+    "category": "Formal"
+  },
+  {
+    "name": "Casual Lane",
+    "lat": 12.943257041603191,
+    "lon": 77.48260223270725,
+    "category": "Luxury"
+  },
+  {
+    "name": "Modern Apparel",
+    "lat": 13.085883163094088,
+    "lon": 77.55252167527914,
+    "category": "Casual"
+  },
+  {
+    "name": "Cotton Closet",
+    "lat": 12.840437768348492,
+    "lon": 77.64724340931723,
+    "category": "Luxury"
+  },
+  {
+    "name": "Luxury Hub",
+    "lat": 12.8132575810273,
+    "lon": 77.47719407928166,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Silk Room",
+    "lat": 13.107261023661305,
+    "lon": 77.63569207076297,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Core Nation",
+    "lat": 13.087056144472161,
+    "lon": 77.54861907562783,
+    "category": "Luxury"
+  },
+  {
+    "name": "Sport Corner",
+    "lat": 13.097137411388012,
+    "lon": 77.54129958009237,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Modern Fashion",
+    "lat": 12.890434910926954,
+    "lon": 77.75346166347867,
+    "category": "Denim"
+  },
+  {
+    "name": "Modern Outlet",
+    "lat": 12.844415818872587,
+    "lon": 77.58593170574551,
+    "category": "Formal"
+  },
+  {
+    "name": "Elite Centre",
+    "lat": 13.004781314664854,
+    "lon": 77.46646710472649,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Metro Co",
+    "lat": 13.01857507988975,
+    "lon": 77.55297236226295,
+    "category": "Formal"
+  },
+  {
+    "name": "City Co",
+    "lat": 12.923449310297357,
+    "lon": 77.7932639927979,
+    "category": "Formal"
+  },
+  {
+    "name": "Modern Corner",
+    "lat": 13.062837803698596,
+    "lon": 77.66287217581353,
+    "category": "Denim"
+  },
+  {
+    "name": "Silk House",
+    "lat": 12.949305775954938,
+    "lon": 77.42941051572942,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Classic Studio",
+    "lat": 13.074658406293183,
+    "lon": 77.64574067066654,
+    "category": "Formal"
+  },
+  {
+    "name": "Capsule Store",
+    "lat": 13.125799825086446,
+    "lon": 77.70160346309675,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Vintage Outlet",
+    "lat": 12.815015152222639,
+    "lon": 77.45855960952464,
+    "category": "Denim"
+  },
+  {
+    "name": "Maxx World",
+    "lat": 13.030320989244252,
+    "lon": 77.65506728310692,
+    "category": "Denim"
+  },
+  {
+    "name": "Sneaker World",
+    "lat": 12.856035280183558,
+    "lon": 77.67087107455515,
+    "category": "Formal"
+  },
+  {
+    "name": "City Room",
+    "lat": 13.049567678045715,
+    "lon": 77.53617998781343,
+    "category": "Casual"
+  },
+  {
+    "name": "Sport House",
+    "lat": 12.853575438439144,
+    "lon": 77.62736105653352,
+    "category": "Formal"
+  },
+  {
+    "name": "Denim Closet",
+    "lat": 12.810269295717053,
+    "lon": 77.55399484364662,
+    "category": "Casual"
+  },
+  {
+    "name": "Cotton House",
+    "lat": 13.060575731985862,
+    "lon": 77.41295032398166,
+    "category": "Streetwear"
+  },
+  {
+    "name": "City Nation",
+    "lat": 12.867568147898334,
+    "lon": 77.6680560104648,
+    "category": "Formal"
+  },
+  {
+    "name": "Trend World",
+    "lat": 12.89173660755859,
+    "lon": 77.64917423535445,
+    "category": "Formal"
+  },
+  {
+    "name": "Silk House",
+    "lat": 13.097689154159676,
+    "lon": 77.48955095597147,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Style Works",
+    "lat": 13.012670341810864,
+    "lon": 77.70084766990269,
+    "category": "Casual"
+  },
+  {
+    "name": "Cotton Shop",
+    "lat": 12.946072791614604,
+    "lon": 77.78439773414358,
+    "category": "Casual"
+  },
+  {
+    "name": "Metro Centre",
+    "lat": 13.05115169900709,
+    "lon": 77.56372687148684,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Metro World",
+    "lat": 12.93662666068102,
+    "lon": 77.5562251883493,
+    "category": "Luxury"
+  },
+  {
+    "name": "Studio Co",
+    "lat": 12.996938087983711,
+    "lon": 77.62286081709989,
+    "category": "Luxury"
+  },
+  {
+    "name": "Urban World",
+    "lat": 12.855846802631964,
+    "lon": 77.48359836107596,
+    "category": "Formal"
+  },
+  {
+    "name": "Classic Room",
+    "lat": 12.92968049689821,
+    "lon": 77.5740638899394,
+    "category": "Luxury"
+  },
+  {
+    "name": "Trend Nation",
+    "lat": 12.947387605291924,
+    "lon": 77.64017651533437,
+    "category": "Casual"
+  },
+  {
+    "name": "Modern Works",
+    "lat": 13.069478948882207,
+    "lon": 77.5608994528001,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Denim Co",
+    "lat": 12.912454552984649,
+    "lon": 77.42183519857431,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Metro Lab",
+    "lat": 12.841045162561128,
+    "lon": 77.72451816500406,
+    "category": "Luxury"
+  },
+  {
+    "name": "Style House",
+    "lat": 12.874471676858276,
+    "lon": 77.56896358077842,
+    "category": "Casual"
+  },
+  {
+    "name": "Fit Point",
+    "lat": 12.978737211438075,
+    "lon": 77.44565620133321,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Prime Closet",
+    "lat": 12.975325447491885,
+    "lon": 77.57178718953334,
+    "category": "Luxury"
+  },
+  {
+    "name": "Luxury Collective",
+    "lat": 13.041028801434368,
+    "lon": 77.40819890489234,
+    "category": "Formal"
+  },
+  {
+    "name": "Elite Gallery",
+    "lat": 13.027718198303042,
+    "lon": 77.78309855535721,
+    "category": "Denim"
+  },
+  {
+    "name": "Fab Factory",
+    "lat": 12.981223484808874,
+    "lon": 77.44081041152205,
+    "category": "Luxury"
+  },
+  {
+    "name": "Modern Boutique",
+    "lat": 13.087627443639203,
+    "lon": 77.54280335334153,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Fit Nation",
+    "lat": 13.070138865128245,
+    "lon": 77.7086043545248,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Core District",
+    "lat": 12.903007247834694,
+    "lon": 77.64171023419556,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Maxx Factory",
+    "lat": 12.992546438717042,
+    "lon": 77.44524261144312,
+    "category": "Denim"
+  },
+  {
+    "name": "Maxx Store",
+    "lat": 13.10133971018386,
+    "lon": 77.68884984368803,
+    "category": "Luxury"
+  },
+  {
+    "name": "Luxury Fashion",
+    "lat": 12.933751304374374,
+    "lon": 77.45743015751833,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Capsule Nation",
+    "lat": 12.962629207753974,
+    "lon": 77.54423510127813,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Core Gallery",
+    "lat": 13.105670839921462,
+    "lon": 77.51818727479673,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Denim Apparel",
+    "lat": 13.10139551614057,
+    "lon": 77.44004131374808,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Studio Works",
+    "lat": 13.046319246427828,
+    "lon": 77.74490870786556,
+    "category": "Casual"
+  },
+  {
+    "name": "Studio Lane",
+    "lat": 12.956571200341545,
+    "lon": 77.6570656577985,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Active Market",
+    "lat": 13.054096394527663,
+    "lon": 77.44744849245482,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Luxury Shop",
+    "lat": 12.835950929972816,
+    "lon": 77.57930379861381,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Trend House",
+    "lat": 13.119212867026347,
+    "lon": 77.77764660447868,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Style Gallery",
+    "lat": 12.913762836067438,
+    "lon": 77.48241311070265,
+    "category": "Denim"
+  },
+  {
+    "name": "Cotton Boutique",
+    "lat": 12.869897520144857,
+    "lon": 77.7159022382763,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Denim Point",
+    "lat": 13.136824750278691,
+    "lon": 77.64008488720071,
+    "category": "Casual"
+  },
+  {
+    "name": "Core Shop",
+    "lat": 12.825034575077304,
+    "lon": 77.63003949540015,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Sport Closet",
+    "lat": 13.02762653479846,
+    "lon": 77.43299575654478,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Fit Co",
+    "lat": 13.019532025953426,
+    "lon": 77.41024788262443,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Sport World",
+    "lat": 12.8439808664768,
+    "lon": 77.58703360106729,
+    "category": "Formal"
+  },
+  {
+    "name": "Vintage Store",
+    "lat": 12.945906898560448,
+    "lon": 77.59913383456848,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Fab Closet",
+    "lat": 13.062231988644818,
+    "lon": 77.7597997079572,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Denim Fashion",
+    "lat": 12.855266643455217,
+    "lon": 77.4914291818213,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Co Boutique",
+    "lat": 12.883687515645692,
+    "lon": 77.71739917166452,
+    "category": "Formal"
+  },
+  {
+    "name": "House Hub",
+    "lat": 12.832846156544178,
+    "lon": 77.71930936716065,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Luxury Room",
+    "lat": 12.999045294729255,
+    "lon": 77.69572271083209,
+    "category": "Denim"
+  },
+  {
+    "name": "Metro Wear",
+    "lat": 12.885485568377511,
+    "lon": 77.67125246892685,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Sport Lab",
+    "lat": 13.08496842580565,
+    "lon": 77.74689316417724,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Label Gallery",
+    "lat": 12.952711090916486,
+    "lon": 77.54755827822693,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Sport Apparel",
+    "lat": 13.051727040585591,
+    "lon": 77.51273489030214,
+    "category": "Luxury"
+  },
+  {
+    "name": "Style Co",
+    "lat": 12.987613011622456,
+    "lon": 77.68462601674906,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Silk Hub",
+    "lat": 12.874363638874454,
+    "lon": 77.60414279327803,
+    "category": "Formal"
+  },
+  {
+    "name": "Style Lab",
+    "lat": 13.085143343044537,
+    "lon": 77.44738474200793,
+    "category": "Luxury"
+  },
+  {
+    "name": "Silk Studio",
+    "lat": 12.962886175954418,
+    "lon": 77.66645145037762,
+    "category": "Denim"
+  },
+  {
+    "name": "Ethnic Apparel",
+    "lat": 13.05847805321547,
+    "lon": 77.60886472733908,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Metro Lane",
+    "lat": 13.024137136837249,
+    "lon": 77.65466429054014,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Active Co",
+    "lat": 12.85942416356159,
+    "lon": 77.61075146849815,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Classic Shop",
+    "lat": 12.848705116773628,
+    "lon": 77.68331812881901,
+    "category": "Casual"
+  },
+  {
+    "name": "Denim Works",
+    "lat": 13.098207182206657,
+    "lon": 77.49150931132827,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Cotton Wear",
+    "lat": 12.831903543654658,
+    "lon": 77.41583125513938,
+    "category": "Formal"
+  },
+  {
+    "name": "Prime Centre",
+    "lat": 12.852050070639267,
+    "lon": 77.72265975045677,
+    "category": "Formal"
+  },
+  {
+    "name": "Style Collective",
+    "lat": 13.017519346762862,
+    "lon": 77.6268199339919,
+    "category": "Ethnic"
+  },
+  {
+    "name": "House Point",
+    "lat": 13.11537075114469,
+    "lon": 77.68771959256674,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Classic District",
+    "lat": 13.07327686274104,
+    "lon": 77.55667183219697,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Collective",
+    "lat": 13.076040706306623,
+    "lon": 77.47709351564234,
+    "category": "Denim"
+  },
+  {
+    "name": "Style Studio",
+    "lat": 12.953290327483542,
+    "lon": 77.76271141371338,
+    "category": "Casual"
+  },
+  {
+    "name": "Sport Corner",
+    "lat": 13.107756639397152,
+    "lon": 77.70370666246544,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Fab House",
+    "lat": 12.903487696987371,
+    "lon": 77.64987609741823,
+    "category": "Formal"
+  },
+  {
+    "name": "Casual Fashion",
+    "lat": 13.085045048362897,
+    "lon": 77.76805266261364,
+    "category": "Formal"
+  },
+  {
+    "name": "Street Hub",
+    "lat": 13.07034961286103,
+    "lon": 77.41623806139214,
+    "category": "Formal"
+  },
+  {
+    "name": "Elite Store",
+    "lat": 13.090046894806898,
+    "lon": 77.6860323075364,
+    "category": "Formal"
+  },
+  {
+    "name": "Metro Shop",
+    "lat": 13.027919517470359,
+    "lon": 77.76243486943929,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Luxury Outlet",
+    "lat": 13.0968003980085,
+    "lon": 77.4393836438386,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sneaker Closet",
+    "lat": 13.109584402531691,
+    "lon": 77.44536497110236,
+    "category": "Formal"
+  },
+  {
+    "name": "Active Works",
+    "lat": 12.868244941812405,
+    "lon": 77.47998236279862,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Luxury Gallery",
+    "lat": 13.021374710514996,
+    "lon": 77.5095441193826,
+    "category": "Luxury"
+  },
+  {
+    "name": "Metro Point",
+    "lat": 12.926457134095985,
+    "lon": 77.56130367924244,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Sneaker Gallery",
+    "lat": 13.019699273705658,
+    "lon": 77.64818861054732,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sport Shop",
+    "lat": 12.93902241294961,
+    "lon": 77.7578380047055,
+    "category": "Luxury"
+  },
+  {
+    "name": "Fit Factory",
+    "lat": 12.901154661883869,
+    "lon": 77.72598548653356,
+    "category": "Casual"
+  },
+  {
+    "name": "Fab Boutique",
+    "lat": 13.036999921446515,
+    "lon": 77.53221560074286,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Trend Corner",
+    "lat": 12.938822200727724,
+    "lon": 77.49843011644994,
+    "category": "Luxury"
+  },
+  {
+    "name": "Street Room",
+    "lat": 12.985140916580503,
+    "lon": 77.44300532669467,
+    "category": "Formal"
+  },
+  {
+    "name": "City Point",
+    "lat": 12.986272491330213,
+    "lon": 77.72427841224267,
+    "category": "Denim"
+  },
+  {
+    "name": "Classic Closet",
+    "lat": 12.905334026607088,
+    "lon": 77.4713251582513,
+    "category": "Casual"
+  },
+  {
+    "name": "Ethnic Room",
+    "lat": 13.100237474210576,
+    "lon": 77.43284713083388,
+    "category": "Formal"
+  },
+  {
+    "name": "Vintage Nation",
+    "lat": 12.934767802716674,
+    "lon": 77.65148518886286,
+    "category": "Casual"
+  },
+  {
+    "name": "Casual Works",
+    "lat": 12.81720478204478,
+    "lon": 77.64631167111462,
+    "category": "Denim"
+  },
+  {
+    "name": "City Studio",
+    "lat": 12.838668076347572,
+    "lon": 77.73110046318294,
+    "category": "Formal"
+  },
+  {
+    "name": "Label Corner",
+    "lat": 13.07100579246351,
+    "lon": 77.54488834980395,
+    "category": "Formal"
+  },
+  {
+    "name": "Co Wear",
+    "lat": 12.88447533887036,
+    "lon": 77.66502812338193,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Ethnic Fashion",
+    "lat": 12.933194011227407,
+    "lon": 77.73999820998682,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Sneaker Studio",
+    "lat": 12.977301785057998,
+    "lon": 77.53098163154903,
+    "category": "Casual"
+  },
+  {
+    "name": "Label Apparel",
+    "lat": 12.852340162481607,
+    "lon": 77.7186642699413,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Silk Lab",
+    "lat": 12.948179971438696,
+    "lon": 77.66516962755513,
+    "category": "Casual"
+  },
+  {
+    "name": "Co Factory",
+    "lat": 13.00600559004389,
+    "lon": 77.40158340132317,
+    "category": "Denim"
+  },
+  {
+    "name": "Studio District",
+    "lat": 13.115837988275448,
+    "lon": 77.51262824520396,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Classic Point",
+    "lat": 13.01219102362408,
+    "lon": 77.73966823458031,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Silk Studio",
+    "lat": 12.98412401780934,
+    "lon": 77.62940254856855,
+    "category": "Formal"
+  },
+  {
+    "name": "Studio Room",
+    "lat": 13.019977565930294,
+    "lon": 77.68828566269013,
+    "category": "Casual"
+  },
+  {
+    "name": "Co Room",
+    "lat": 13.027123209999713,
+    "lon": 77.48712130124387,
+    "category": "Casual"
+  },
+  {
+    "name": "Trend Centre",
+    "lat": 13.060618032023475,
+    "lon": 77.62739771162417,
+    "category": "Luxury"
+  },
+  {
+    "name": "Classic Co",
+    "lat": 12.961622216369904,
+    "lon": 77.52076540762776,
+    "category": "Formal"
+  },
+  {
+    "name": "Active Point",
+    "lat": 13.137928561939132,
+    "lon": 77.65877147389266,
+    "category": "Formal"
+  },
+  {
+    "name": "Core Collective",
+    "lat": 12.969869260377601,
+    "lon": 77.63094645234017,
+    "category": "Formal"
+  },
+  {
+    "name": "Modern Factory",
+    "lat": 12.974199176588135,
+    "lon": 77.71931903069226,
+    "category": "Luxury"
+  },
+  {
+    "name": "Prime Collective",
+    "lat": 13.00317810846564,
+    "lon": 77.71997425875493,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Studio Nation",
+    "lat": 13.111468287148169,
+    "lon": 77.52666019575965,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Ethnic Fashion",
+    "lat": 12.843944710820844,
+    "lon": 77.48196529909987,
+    "category": "Denim"
+  },
+  {
+    "name": "Active Studio",
+    "lat": 12.854555610768635,
+    "lon": 77.79373187632319,
+    "category": "Luxury"
+  },
+  {
+    "name": "Label Room",
+    "lat": 12.83206252568733,
+    "lon": 77.50525435776534,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Style Lab",
+    "lat": 12.964435198940365,
+    "lon": 77.58268580078371,
+    "category": "Denim"
+  },
+  {
+    "name": "Metro Market",
+    "lat": 13.02886193103591,
+    "lon": 77.51464893542543,
+    "category": "Formal"
+  },
+  {
+    "name": "City Store",
+    "lat": 12.848593738795698,
+    "lon": 77.55343658424786,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Co Lane",
+    "lat": 12.986444995961973,
+    "lon": 77.69612114270826,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Vintage Corner",
+    "lat": 13.061799303420539,
+    "lon": 77.63998915540894,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Core Centre",
+    "lat": 13.138140706507807,
+    "lon": 77.5664202734931,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Core Fashion",
+    "lat": 13.01763990835008,
+    "lon": 77.69002484670132,
+    "category": "Luxury"
+  },
+  {
+    "name": "Sport Works",
+    "lat": 13.103192966610685,
+    "lon": 77.67389067599507,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Ethnic Point",
+    "lat": 12.903118696746887,
+    "lon": 77.6109485017265,
+    "category": "Denim"
+  },
+  {
+    "name": "House Studio",
+    "lat": 12.91728208835849,
+    "lon": 77.52010203211127,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Fit Centre",
+    "lat": 13.049994969328868,
+    "lon": 77.51484177110346,
+    "category": "Luxury"
+  },
+  {
+    "name": "Vintage Room",
+    "lat": 13.010370710105281,
+    "lon": 77.76655392619085,
+    "category": "Luxury"
+  },
+  {
+    "name": "Core Apparel",
+    "lat": 13.049813703415536,
+    "lon": 77.60972247607407,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sneaker House",
+    "lat": 12.979861575218496,
+    "lon": 77.4437199989014,
+    "category": "Luxury"
+  },
+  {
+    "name": "Sport Store",
+    "lat": 12.848248178210579,
+    "lon": 77.40610580531492,
+    "category": "Luxury"
+  },
+  {
+    "name": "Core Co",
+    "lat": 12.81558044560858,
+    "lon": 77.67061255955653,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Core Nation",
+    "lat": 12.954572697583409,
+    "lon": 77.71106361450487,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Silk Centre",
+    "lat": 13.093075157031004,
+    "lon": 77.41538788637311,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Vintage Outlet",
+    "lat": 12.930211204552965,
+    "lon": 77.57562737566664,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Fab Market",
+    "lat": 13.100129331423481,
+    "lon": 77.55478430310045,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Studio Works",
+    "lat": 13.045784146164062,
+    "lon": 77.59943559061662,
+    "category": "Formal"
+  },
+  {
+    "name": "House Works",
+    "lat": 12.908600381744325,
+    "lon": 77.59510963082494,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Classic Fashion",
+    "lat": 12.845039546237174,
+    "lon": 77.52399528364712,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Maxx House",
+    "lat": 12.886364515951591,
+    "lon": 77.75384409802608,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Denim Closet",
+    "lat": 13.01877109060986,
+    "lon": 77.65612247467551,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Ethnic Closet",
+    "lat": 13.059752703751947,
+    "lon": 77.40533976575564,
+    "category": "Sneakers"
+  },
+  {
+    "name": "City Factory",
+    "lat": 12.839239498649063,
+    "lon": 77.6148978393712,
+    "category": "Denim"
+  },
+  {
+    "name": "Label Lane",
+    "lat": 12.927211545064544,
+    "lon": 77.57898776162324,
+    "category": "Luxury"
+  },
+  {
+    "name": "Ethnic Lab",
+    "lat": 12.946953456006613,
+    "lon": 77.61520835035682,
+    "category": "Denim"
+  },
+  {
+    "name": "Casual District",
+    "lat": 13.140818687626444,
+    "lon": 77.77345260421293,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Co Room",
+    "lat": 12.86175867498436,
+    "lon": 77.46539957680072,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Casual Works",
+    "lat": 13.093247370479292,
+    "lon": 77.67345508402902,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Apparel",
+    "lat": 12.87280828036744,
+    "lon": 77.60503098227011,
+    "category": "Denim"
+  },
+  {
+    "name": "Co Works",
+    "lat": 13.057643482760975,
+    "lon": 77.50175200784386,
+    "category": "Casual"
+  },
+  {
+    "name": "Urban Centre",
+    "lat": 13.133397294215778,
+    "lon": 77.6823840508338,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Urban World",
+    "lat": 13.059593353659054,
+    "lon": 77.75548486477008,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Active Apparel",
+    "lat": 12.800116242460843,
+    "lon": 77.66941510469886,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Trend Point",
+    "lat": 12.827876019149613,
+    "lon": 77.702249556817,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Denim Studio",
+    "lat": 12.90429355187428,
+    "lon": 77.59123001242365,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Capsule Nation",
+    "lat": 13.059234464252656,
+    "lon": 77.62304460211921,
+    "category": "Formal"
+  },
+  {
+    "name": "Prime Room",
+    "lat": 12.994898410020177,
+    "lon": 77.49236231561851,
+    "category": "Casual"
+  },
+  {
+    "name": "Fab Closet",
+    "lat": 13.024942165950847,
+    "lon": 77.40214224986019,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Denim Fashion",
+    "lat": 12.949414587183384,
+    "lon": 77.65789137875278,
+    "category": "Casual"
+  },
+  {
+    "name": "Modern Lab",
+    "lat": 12.976723365733436,
+    "lon": 77.63276971784258,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Denim Co",
+    "lat": 12.949024196815952,
+    "lon": 77.61793980448427,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sport Hub",
+    "lat": 12.893233213493529,
+    "lon": 77.52458043453376,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Active Boutique",
+    "lat": 12.803517980787902,
+    "lon": 77.70641051159754,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Cotton World",
+    "lat": 13.126201887933519,
+    "lon": 77.71975305426226,
+    "category": "Sportswear"
+  },
+  {
+    "name": "House Centre",
+    "lat": 12.910029322775637,
+    "lon": 77.54358518357631,
+    "category": "Luxury"
+  },
+  {
+    "name": "Core Co",
+    "lat": 13.12577566729398,
+    "lon": 77.70247513052362,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Elite Co",
+    "lat": 12.814326189043328,
+    "lon": 77.52179385861928,
+    "category": "Luxury"
+  },
+  {
+    "name": "Street World",
+    "lat": 12.826909674701449,
+    "lon": 77.76456719977567,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Co Nation",
+    "lat": 13.008206256382277,
+    "lon": 77.73095723023263,
+    "category": "Luxury"
+  },
+  {
+    "name": "Classic Closet",
+    "lat": 12.951790818086359,
+    "lon": 77.4173416607764,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Studio Outlet",
+    "lat": 12.979024088787408,
+    "lon": 77.69915118651042,
+    "category": "Formal"
+  },
+  {
+    "name": "Active District",
+    "lat": 13.105307296721758,
+    "lon": 77.53381620720563,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Active Room",
+    "lat": 13.050938811369017,
+    "lon": 77.679155616337,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Maxx Wear",
+    "lat": 13.131429102012014,
+    "lon": 77.4151828742794,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Silk Hub",
+    "lat": 13.075128338464301,
+    "lon": 77.56740816721239,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Luxury House",
+    "lat": 12.962877114517518,
+    "lon": 77.49894294856003,
+    "category": "Casual"
+  },
+  {
+    "name": "Label Centre",
+    "lat": 12.99397488378987,
+    "lon": 77.63733933477853,
+    "category": "Casual"
+  },
+  {
+    "name": "Silk Lane",
+    "lat": 13.095437968029486,
+    "lon": 77.61322767399082,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Cotton Outlet",
+    "lat": 12.810326445032171,
+    "lon": 77.55461307940786,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Urban Centre",
+    "lat": 13.105574305189915,
+    "lon": 77.74741413779243,
+    "category": "Denim"
+  },
+  {
+    "name": "Capsule Boutique",
+    "lat": 12.995905595726827,
+    "lon": 77.42094327948926,
+    "category": "Luxury"
+  },
+  {
+    "name": "Urban Boutique",
+    "lat": 13.004774315284843,
+    "lon": 77.63948487932439,
+    "category": "Casual"
+  },
+  {
+    "name": "House Wear",
+    "lat": 12.9417958764078,
+    "lon": 77.72844360836034,
+    "category": "Luxury"
+  },
+  {
+    "name": "House Apparel",
+    "lat": 12.932295002676831,
+    "lon": 77.63388419299012,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Denim House",
+    "lat": 13.144103376811016,
+    "lon": 77.45479615111414,
+    "category": "Luxury"
+  },
+  {
+    "name": "Studio Hub",
+    "lat": 13.035941822733857,
+    "lon": 77.51903590963508,
+    "category": "Casual"
+  },
+  {
+    "name": "Luxury Point",
+    "lat": 12.995676105719966,
+    "lon": 77.53422854745963,
+    "category": "Formal"
+  },
+  {
+    "name": "Metro Nation",
+    "lat": 12.881376124417118,
+    "lon": 77.62946719171309,
+    "category": "Casual"
+  },
+  {
+    "name": "Modern Outlet",
+    "lat": 12.97330155685679,
+    "lon": 77.57297721979508,
+    "category": "Formal"
+  },
+  {
+    "name": "Sport World",
+    "lat": 12.93699996771197,
+    "lon": 77.68641016356895,
+    "category": "FastFashion"
+  },
+  {
+    "name": "City Corner",
+    "lat": 12.92991845301044,
+    "lon": 77.44780870662304,
+    "category": "Luxury"
+  },
+  {
+    "name": "Trend Fashion",
+    "lat": 13.070279111507867,
+    "lon": 77.694829012104,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Trend Centre",
+    "lat": 12.884279821296378,
+    "lon": 77.43155867668719,
+    "category": "Casual"
+  },
+  {
+    "name": "Label District",
+    "lat": 12.981956383998888,
+    "lon": 77.79018767564348,
+    "category": "Formal"
+  },
+  {
+    "name": "Co World",
+    "lat": 12.951617723563745,
+    "lon": 77.77945147575713,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Maxx Market",
+    "lat": 12.836295874550306,
+    "lon": 77.74593669785145,
+    "category": "Luxury"
+  },
+  {
+    "name": "Elite Fashion",
+    "lat": 12.925325487186813,
+    "lon": 77.61075683451827,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Urban Shop",
+    "lat": 12.972327172986773,
+    "lon": 77.50461251183079,
+    "category": "Formal"
+  },
+  {
+    "name": "Silk Centre",
+    "lat": 13.117051466826679,
+    "lon": 77.50746198313338,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Studio Wear",
+    "lat": 13.013175776455512,
+    "lon": 77.69590860033409,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Elite Wear",
+    "lat": 13.0697651400522,
+    "lon": 77.55752742985918,
+    "category": "Casual"
+  },
+  {
+    "name": "Label Boutique",
+    "lat": 12.802360219162045,
+    "lon": 77.60923740526376,
+    "category": "Denim"
+  },
+  {
+    "name": "Fab Works",
+    "lat": 12.863881209207001,
+    "lon": 77.77414801031726,
+    "category": "Formal"
+  },
+  {
+    "name": "Silk Lane",
+    "lat": 12.870974662837062,
+    "lon": 77.74262212896876,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sneaker Fashion",
+    "lat": 12.93304663483606,
+    "lon": 77.48703983628812,
+    "category": "Formal"
+  },
+  {
+    "name": "Metro Hub",
+    "lat": 12.988455171320119,
+    "lon": 77.65496109794947,
+    "category": "Luxury"
+  },
+  {
+    "name": "Metro Hub",
+    "lat": 13.005178323624545,
+    "lon": 77.59380254499658,
+    "category": "Formal"
+  },
+  {
+    "name": "Studio Room",
+    "lat": 12.847071597971755,
+    "lon": 77.74577085762733,
+    "category": "Luxury"
+  },
+  {
+    "name": "Fab Shop",
+    "lat": 13.118822836618602,
+    "lon": 77.7654461563396,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Fit Outlet",
+    "lat": 12.96171172235377,
+    "lon": 77.55843139749867,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Urban World",
+    "lat": 13.0208666656653,
+    "lon": 77.44046645337527,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Sport Factory",
+    "lat": 13.085053157911215,
+    "lon": 77.40860449938984,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Core Room",
+    "lat": 12.804271127972001,
+    "lon": 77.61021909998276,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Metro Factory",
+    "lat": 12.873874543217472,
+    "lon": 77.74593068739077,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Vintage District",
+    "lat": 12.889277880739,
+    "lon": 77.55782384594686,
+    "category": "Casual"
+  },
+  {
+    "name": "Denim World",
+    "lat": 13.101252524188869,
+    "lon": 77.65168399017038,
+    "category": "Luxury"
+  },
+  {
+    "name": "Fab Lab",
+    "lat": 13.099488844111052,
+    "lon": 77.62823708493522,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Active Wear",
+    "lat": 13.061585234243077,
+    "lon": 77.68420920642431,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Trend Centre",
+    "lat": 12.956182897512017,
+    "lon": 77.69052588015593,
+    "category": "Denim"
+  },
+  {
+    "name": "Active Co",
+    "lat": 12.824888544928736,
+    "lon": 77.6098205850924,
+    "category": "Luxury"
+  },
+  {
+    "name": "Ethnic Boutique",
+    "lat": 12.864491281926602,
+    "lon": 77.49472198329225,
+    "category": "Formal"
+  },
+  {
+    "name": "Label Corner",
+    "lat": 12.807581359898784,
+    "lon": 77.41758329613975,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Modern District",
+    "lat": 13.014034802453317,
+    "lon": 77.5959293940938,
+    "category": "Denim"
+  },
+  {
+    "name": "Ethnic District",
+    "lat": 12.829837450308249,
+    "lon": 77.63690463690642,
+    "category": "Denim"
+  },
+  {
+    "name": "Co Corner",
+    "lat": 13.035664666203935,
+    "lon": 77.48922533450342,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Co Closet",
+    "lat": 12.841715622736599,
+    "lon": 77.65169893026129,
+    "category": "Casual"
+  },
+  {
+    "name": "Silk Closet",
+    "lat": 12.85487973788365,
+    "lon": 77.60825224822572,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Ethnic Lane",
+    "lat": 13.106553692310627,
+    "lon": 77.78364969057209,
+    "category": "Formal"
+  },
+  {
+    "name": "Cotton Fashion",
+    "lat": 13.070114491353273,
+    "lon": 77.50653879477092,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Ethnic Lane",
+    "lat": 12.927919483487134,
+    "lon": 77.66632265025824,
+    "category": "Ethnic"
+  },
+  {
+    "name": "City Lab",
+    "lat": 13.026635752102996,
+    "lon": 77.51660328840408,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Fab Outlet",
+    "lat": 12.923435782949355,
+    "lon": 77.56068578186486,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Trend Wear",
+    "lat": 13.013635892231665,
+    "lon": 77.6586921320852,
+    "category": "Luxury"
+  },
+  {
+    "name": "Capsule Point",
+    "lat": 13.130940284028515,
+    "lon": 77.78621780480759,
+    "category": "Formal"
+  },
+  {
+    "name": "Label Lane",
+    "lat": 13.134081376277294,
+    "lon": 77.67953095581585,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Maxx Shop",
+    "lat": 12.862461515167215,
+    "lon": 77.51875991893664,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Modern Closet",
+    "lat": 12.830133093467778,
+    "lon": 77.66195183528288,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Fit World",
+    "lat": 13.02152670000805,
+    "lon": 77.78792361812754,
+    "category": "Luxury"
+  },
+  {
+    "name": "Casual Works",
+    "lat": 13.103968285451902,
+    "lon": 77.56820282977056,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Ethnic Lab",
+    "lat": 12.865987931134644,
+    "lon": 77.69011770857408,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Modern House",
+    "lat": 13.035379180882206,
+    "lon": 77.73673573481716,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Maxx Collective",
+    "lat": 13.03651970067977,
+    "lon": 77.76958258268425,
+    "category": "Formal"
+  },
+  {
+    "name": "Luxury World",
+    "lat": 12.940949935470968,
+    "lon": 77.40979541787418,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Style Hub",
+    "lat": 13.018107366518743,
+    "lon": 77.78296701727628,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Trend Works",
+    "lat": 12.946398819592957,
+    "lon": 77.76556826535766,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Active Room",
+    "lat": 13.025501900079457,
+    "lon": 77.44497061543667,
+    "category": "Casual"
+  },
+  {
+    "name": "Modern Boutique",
+    "lat": 12.875017743715125,
+    "lon": 77.74210586737867,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Metro District",
+    "lat": 12.902531784574842,
+    "lon": 77.65488549376013,
+    "category": "Denim"
+  },
+  {
+    "name": "Urban Lab",
+    "lat": 13.08698424914446,
+    "lon": 77.55124775979455,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Label Corner",
+    "lat": 13.051027288064775,
+    "lon": 77.70979414234355,
+    "category": "Casual"
+  },
+  {
+    "name": "Silk Lab",
+    "lat": 13.037320958153463,
+    "lon": 77.41064831207308,
+    "category": "Formal"
+  },
+  {
+    "name": "Capsule Shop",
+    "lat": 12.962253362158348,
+    "lon": 77.54548160857334,
+    "category": "Denim"
+  },
+  {
+    "name": "Maxx Fashion",
+    "lat": 13.13111885468529,
+    "lon": 77.4219805726451,
+    "category": "Denim"
+  },
+  {
+    "name": "Ethnic Hub",
+    "lat": 12.936401324209564,
+    "lon": 77.49329282132132,
+    "category": "Casual"
+  },
+  {
+    "name": "Casual Apparel",
+    "lat": 12.904861748017582,
+    "lon": 77.5751857674229,
+    "category": "Casual"
+  },
+  {
+    "name": "Urban World",
+    "lat": 12.819658312238586,
+    "lon": 77.66234922507377,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Active Collective",
+    "lat": 13.006889276884804,
+    "lon": 77.48846864712411,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Cotton District",
+    "lat": 12.912649576096591,
+    "lon": 77.48944824878531,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Capsule Room",
+    "lat": 13.046545174876593,
+    "lon": 77.57771860511293,
+    "category": "Formal"
+  },
+  {
+    "name": "Denim Apparel",
+    "lat": 12.903771898225989,
+    "lon": 77.51489567394873,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Elite Room",
+    "lat": 12.987194128879516,
+    "lon": 77.75381317033668,
+    "category": "Formal"
+  },
+  {
+    "name": "Cotton Nation",
+    "lat": 12.915668766551285,
+    "lon": 77.41595750957408,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Modern Lab",
+    "lat": 12.964506407677364,
+    "lon": 77.52719940843691,
+    "category": "Casual"
+  },
+  {
+    "name": "Active District",
+    "lat": 12.994696733563968,
+    "lon": 77.74334733600494,
+    "category": "Formal"
+  },
+  {
+    "name": "Capsule District",
+    "lat": 12.927367410652502,
+    "lon": 77.57585120116819,
+    "category": "Casual"
+  },
+  {
+    "name": "Capsule Gallery",
+    "lat": 13.06138454377234,
+    "lon": 77.55658943926574,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Sneaker Point",
+    "lat": 12.875578755397072,
+    "lon": 77.56692906256968,
+    "category": "Luxury"
+  },
+  {
+    "name": "City Point",
+    "lat": 13.015626594056588,
+    "lon": 77.54219787889254,
+    "category": "Denim"
+  },
+  {
+    "name": "Ethnic Factory",
+    "lat": 13.134569169839025,
+    "lon": 77.53460990837199,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Urban Nation",
+    "lat": 12.93710579791795,
+    "lon": 77.7266060286483,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Ethnic Room",
+    "lat": 12.809302280066156,
+    "lon": 77.47895048390214,
+    "category": "Denim"
+  },
+  {
+    "name": "Maxx Factory",
+    "lat": 13.074605017129883,
+    "lon": 77.6124035814765,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Sport Hub",
+    "lat": 12.866014527305143,
+    "lon": 77.55238024233788,
+    "category": "Denim"
+  },
+  {
+    "name": "City Hub",
+    "lat": 12.830961201024966,
+    "lon": 77.581239244794,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Co Outlet",
+    "lat": 13.02417002296102,
+    "lon": 77.42260720822962,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Casual Factory",
+    "lat": 12.929963835452016,
+    "lon": 77.67246042249675,
+    "category": "Denim"
+  },
+  {
+    "name": "Silk Co",
+    "lat": 13.124301866250205,
+    "lon": 77.66165653961261,
+    "category": "Luxury"
+  },
+  {
+    "name": "Maxx Point",
+    "lat": 12.946710050967448,
+    "lon": 77.58414809314964,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sneaker Collective",
+    "lat": 12.88037694940831,
+    "lon": 77.44849619292562,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Capsule Lab",
+    "lat": 12.949813384735815,
+    "lon": 77.5245560643385,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Active Centre",
+    "lat": 13.136145613514937,
+    "lon": 77.79335963994372,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Classic Fashion",
+    "lat": 13.121194473068972,
+    "lon": 77.77251553445426,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Capsule Boutique",
+    "lat": 12.804546252915314,
+    "lon": 77.77765822846364,
+    "category": "Casual"
+  },
+  {
+    "name": "Core Lane",
+    "lat": 13.028924399613144,
+    "lon": 77.56310136580605,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Luxury Factory",
+    "lat": 13.039309861974095,
+    "lon": 77.77333006792014,
+    "category": "Formal"
+  },
+  {
+    "name": "Prime World",
+    "lat": 13.103495734114162,
+    "lon": 77.71021555390315,
+    "category": "Sneakers"
+  },
+  {
+    "name": "House Corner",
+    "lat": 13.048825513510794,
+    "lon": 77.4400841636689,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Classic Gallery",
+    "lat": 12.8034321409975,
+    "lon": 77.42385861146477,
+    "category": "Denim"
+  },
+  {
+    "name": "Trend Co",
+    "lat": 13.06956185159686,
+    "lon": 77.4480379004682,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Sport Lab",
+    "lat": 13.132869842829326,
+    "lon": 77.43983822057066,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Fab Lab",
+    "lat": 12.841022324815393,
+    "lon": 77.5803549151631,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Active District",
+    "lat": 12.833547625502943,
+    "lon": 77.46359948521015,
+    "category": "Casual"
+  },
+  {
+    "name": "Trend Co",
+    "lat": 12.888638044826582,
+    "lon": 77.53661790379644,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Elite Fashion",
+    "lat": 12.9770467478773,
+    "lon": 77.64805373666887,
+    "category": "Casual"
+  },
+  {
+    "name": "Sport Gallery",
+    "lat": 12.944904222014546,
+    "lon": 77.6015298240211,
+    "category": "Denim"
+  },
+  {
+    "name": "Urban Collective",
+    "lat": 13.036138140082052,
+    "lon": 77.65738262029885,
+    "category": "Luxury"
+  },
+  {
+    "name": "Trend Lane",
+    "lat": 13.076057915902858,
+    "lon": 77.47043833005225,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Denim Nation",
+    "lat": 12.97904805794842,
+    "lon": 77.47554330143882,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Studio Corner",
+    "lat": 12.998803635142528,
+    "lon": 77.55672171278333,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Casual Boutique",
+    "lat": 12.85333081375177,
+    "lon": 77.52886231372977,
+    "category": "Formal"
+  },
+  {
+    "name": "Capsule Hub",
+    "lat": 12.95099952541098,
+    "lon": 77.46303111656599,
+    "category": "Formal"
+  },
+  {
+    "name": "Studio Corner",
+    "lat": 13.072556687314933,
+    "lon": 77.7636552494974,
+    "category": "Ethnic"
+  },
+  {
+    "name": "House Wear",
+    "lat": 12.839277797535066,
+    "lon": 77.5618808485361,
+    "category": "Casual"
+  },
+  {
+    "name": "Denim World",
+    "lat": 13.040074348964204,
+    "lon": 77.69222453819214,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Trend Gallery",
+    "lat": 13.018663506178537,
+    "lon": 77.6635812461864,
+    "category": "Luxury"
+  },
+  {
+    "name": "Elite Lab",
+    "lat": 12.829134047665502,
+    "lon": 77.56250951867918,
+    "category": "Luxury"
+  },
+  {
+    "name": "Classic Factory",
+    "lat": 13.001563178367316,
+    "lon": 77.41362273016267,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Metro Studio",
+    "lat": 13.088454320366269,
+    "lon": 77.79741483234004,
+    "category": "Formal"
+  },
+  {
+    "name": "Silk Outlet",
+    "lat": 12.81394207070022,
+    "lon": 77.78876914333055,
+    "category": "Luxury"
+  },
+  {
+    "name": "Vintage Lane",
+    "lat": 12.949756890013848,
+    "lon": 77.6032300316256,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Sneaker House",
+    "lat": 12.854286383038572,
+    "lon": 77.72363141452483,
+    "category": "Luxury"
+  },
+  {
+    "name": "Sport Closet",
+    "lat": 12.993425563605935,
+    "lon": 77.7538314327328,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Denim Store",
+    "lat": 13.112090402055935,
+    "lon": 77.5795647000112,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Denim Boutique",
+    "lat": 12.939680424883406,
+    "lon": 77.54381517763943,
+    "category": "Casual"
+  },
+  {
+    "name": "Sneaker Factory",
+    "lat": 13.088238831917009,
+    "lon": 77.60798563548185,
+    "category": "Denim"
+  },
+  {
+    "name": "House Wear",
+    "lat": 13.067609445481542,
+    "lon": 77.50535085337646,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Casual Market",
+    "lat": 12.898800308964626,
+    "lon": 77.4783319880046,
+    "category": "Luxury"
+  },
+  {
+    "name": "Sneaker Works",
+    "lat": 13.091338445784647,
+    "lon": 77.55524564077731,
+    "category": "Formal"
+  },
+  {
+    "name": "Luxury Store",
+    "lat": 12.955951171569335,
+    "lon": 77.58266354302364,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Core Room",
+    "lat": 13.125161935937573,
+    "lon": 77.51859646654795,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Style Factory",
+    "lat": 13.055050488437379,
+    "lon": 77.4411707047043,
+    "category": "Formal"
+  },
+  {
+    "name": "City Shop",
+    "lat": 12.953912034687859,
+    "lon": 77.65218336843475,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Silk District",
+    "lat": 13.041576024796715,
+    "lon": 77.44010593865201,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Cotton Apparel",
+    "lat": 12.946258238752781,
+    "lon": 77.64111495602504,
+    "category": "Formal"
+  },
+  {
+    "name": "Fab Store",
+    "lat": 13.078888288429253,
+    "lon": 77.70878067338191,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Classic Factory",
+    "lat": 12.897583092205078,
+    "lon": 77.7354571898705,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Metro Fashion",
+    "lat": 12.986128863564758,
+    "lon": 77.54261875994418,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Silk Boutique",
+    "lat": 12.948806988743277,
+    "lon": 77.61518926871484,
+    "category": "Casual"
+  },
+  {
+    "name": "Luxury District",
+    "lat": 12.905217902317698,
+    "lon": 77.45930784908455,
+    "category": "Formal"
+  },
+  {
+    "name": "Vintage Market",
+    "lat": 12.912753707723583,
+    "lon": 77.7426311534054,
+    "category": "Casual"
+  },
+  {
+    "name": "Silk Apparel",
+    "lat": 13.024043159278921,
+    "lon": 77.4251249964265,
+    "category": "Formal"
+  },
+  {
+    "name": "Active Market",
+    "lat": 12.840652648148064,
+    "lon": 77.51866979447985,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Active Studio",
+    "lat": 12.832257246458413,
+    "lon": 77.4825521984851,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Elite Outlet",
+    "lat": 12.995661105371203,
+    "lon": 77.40029657820061,
+    "category": "Denim"
+  },
+  {
+    "name": "Style Apparel",
+    "lat": 12.936148338213844,
+    "lon": 77.65013691011184,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Casual Corner",
+    "lat": 12.823189245751646,
+    "lon": 77.40839411687033,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Modern Co",
+    "lat": 13.070947048863692,
+    "lon": 77.52001746151927,
+    "category": "Luxury"
+  },
+  {
+    "name": "Core Hub",
+    "lat": 13.050037188750792,
+    "lon": 77.74361236001187,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Ethnic Studio",
+    "lat": 12.816925801212035,
+    "lon": 77.47134857636809,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Fab Lane",
+    "lat": 12.968499435513404,
+    "lon": 77.79876669527353,
+    "category": "Casual"
+  },
+  {
+    "name": "Core Centre",
+    "lat": 13.083983001290472,
+    "lon": 77.72825367992847,
+    "category": "Denim"
+  },
+  {
+    "name": "Trend District",
+    "lat": 12.85115027353668,
+    "lon": 77.52669079903215,
+    "category": "Casual"
+  },
+  {
+    "name": "Sport Corner",
+    "lat": 12.906368127608257,
+    "lon": 77.51303431760981,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Label Point",
+    "lat": 12.947792334324248,
+    "lon": 77.51410185302505,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Active District",
+    "lat": 12.83729437729487,
+    "lon": 77.60893742104965,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Ethnic Gallery",
+    "lat": 13.108919195840276,
+    "lon": 77.54973382589706,
+    "category": "Luxury"
+  },
+  {
+    "name": "Label Store",
+    "lat": 13.008672485547825,
+    "lon": 77.47447098093555,
+    "category": "Formal"
+  },
+  {
+    "name": "Elite Boutique",
+    "lat": 12.836159490616117,
+    "lon": 77.41232180468792,
+    "category": "Formal"
+  },
+  {
+    "name": "Sneaker Boutique",
+    "lat": 12.9080584635456,
+    "lon": 77.6551044473797,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Trend Boutique",
+    "lat": 12.897448515767099,
+    "lon": 77.61084161560487,
+    "category": "Casual"
+  },
+  {
+    "name": "Modern World",
+    "lat": 12.896393269401573,
+    "lon": 77.4236578405916,
+    "category": "Formal"
+  },
+  {
+    "name": "Urban Studio",
+    "lat": 12.863455853370867,
+    "lon": 77.68885334394965,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Capsule Lane",
+    "lat": 13.146484191127549,
+    "lon": 77.55692257154,
+    "category": "Luxury"
+  },
+  {
+    "name": "Co Hub",
+    "lat": 12.84210383631772,
+    "lon": 77.48187919840827,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Street Apparel",
+    "lat": 13.070660559798505,
+    "lon": 77.76219424375446,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Prime Collective",
+    "lat": 12.802577161047116,
+    "lon": 77.68192837191421,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Urban Point",
+    "lat": 13.028237067933553,
+    "lon": 77.79586058428714,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Co Lab",
+    "lat": 13.00520750336921,
+    "lon": 77.69449223497003,
+    "category": "Casual"
+  },
+  {
+    "name": "Active Closet",
+    "lat": 12.944454996547801,
+    "lon": 77.68788224551815,
+    "category": "Ethnic"
+  },
+  {
+    "name": "City Market",
+    "lat": 13.112856056409168,
+    "lon": 77.64952310897927,
+    "category": "Casual"
+  },
+  {
+    "name": "Elite House",
+    "lat": 13.067474564720486,
+    "lon": 77.47129143023373,
+    "category": "Formal"
+  },
+  {
+    "name": "Casual Closet",
+    "lat": 13.05224932169191,
+    "lon": 77.58946510981949,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Street Centre",
+    "lat": 12.870720133510323,
+    "lon": 77.72247259522513,
+    "category": "Formal"
+  },
+  {
+    "name": "Style Store",
+    "lat": 13.121681127449705,
+    "lon": 77.51028493350468,
+    "category": "Luxury"
+  },
+  {
+    "name": "Denim Room",
+    "lat": 12.892670367511608,
+    "lon": 77.48835763774441,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Label Market",
+    "lat": 13.119438962391895,
+    "lon": 77.68148808424166,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Urban Centre",
+    "lat": 13.000038669876103,
+    "lon": 77.74518412483228,
+    "category": "Formal"
+  },
+  {
+    "name": "Fab Market",
+    "lat": 12.84565528897294,
+    "lon": 77.45715425522458,
+    "category": "Formal"
+  },
+  {
+    "name": "Urban Fashion",
+    "lat": 12.990263969223957,
+    "lon": 77.42855498277805,
+    "category": "Casual"
+  },
+  {
+    "name": "Urban Shop",
+    "lat": 12.929812977163849,
+    "lon": 77.52060491808537,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Casual Corner",
+    "lat": 12.948344991564419,
+    "lon": 77.7386814976787,
+    "category": "Casual"
+  },
+  {
+    "name": "Sport Store",
+    "lat": 12.93849677273243,
+    "lon": 77.4691521808257,
+    "category": "Luxury"
+  },
+  {
+    "name": "Vintage Market",
+    "lat": 12.906701884533092,
+    "lon": 77.44234423431331,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Style World",
+    "lat": 12.91682851545102,
+    "lon": 77.43955001449616,
+    "category": "Formal"
+  },
+  {
+    "name": "Classic Market",
+    "lat": 12.914162995528107,
+    "lon": 77.45738691505382,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Urban Lane",
+    "lat": 13.09978422684374,
+    "lon": 77.61314489489325,
+    "category": "Denim"
+  },
+  {
+    "name": "Denim Nation",
+    "lat": 12.968854430232978,
+    "lon": 77.5813378047015,
+    "category": "Luxury"
+  },
+  {
+    "name": "Street Wear",
+    "lat": 13.129780290805918,
+    "lon": 77.53890517511786,
+    "category": "FastFashion"
+  },
+  {
+    "name": "House Co",
+    "lat": 13.025934079398832,
+    "lon": 77.56501602523677,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Elite Centre",
+    "lat": 12.888833804216468,
+    "lon": 77.72339139173299,
+    "category": "Luxury"
+  },
+  {
+    "name": "Modern Co",
+    "lat": 12.920728803304822,
+    "lon": 77.67637075883552,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Capsule Lane",
+    "lat": 13.087217787210893,
+    "lon": 77.43964352396074,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Co",
+    "lat": 12.912714086350915,
+    "lon": 77.47019879611219,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Label Centre",
+    "lat": 12.969965312759655,
+    "lon": 77.53492234560913,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Elite Co",
+    "lat": 12.891810112606322,
+    "lon": 77.74467088182921,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Vintage Market",
+    "lat": 13.02782663438219,
+    "lon": 77.6061605698133,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Elite Works",
+    "lat": 12.871834156668518,
+    "lon": 77.59979233506675,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sneaker Hub",
+    "lat": 12.87307458036956,
+    "lon": 77.78104829116445,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Studio Apparel",
+    "lat": 13.11395171685116,
+    "lon": 77.54796196391254,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Metro Boutique",
+    "lat": 12.931711855792209,
+    "lon": 77.68512502861464,
+    "category": "Luxury"
+  },
+  {
+    "name": "Active Co",
+    "lat": 13.08662305809439,
+    "lon": 77.41527046348463,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sneaker Hub",
+    "lat": 13.031129826828078,
+    "lon": 77.43606470411434,
+    "category": "Formal"
+  },
+  {
+    "name": "Casual Factory",
+    "lat": 13.082442631126982,
+    "lon": 77.72225645776594,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Elite Shop",
+    "lat": 12.836402176310704,
+    "lon": 77.65042476130698,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Studio Wear",
+    "lat": 13.14017473590476,
+    "lon": 77.40954956983799,
+    "category": "Casual"
+  },
+  {
+    "name": "Sport Closet",
+    "lat": 13.050345806973908,
+    "lon": 77.50347091587183,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Elite Works",
+    "lat": 13.117991568665438,
+    "lon": 77.70551999204157,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Classic Boutique",
+    "lat": 12.859056092055352,
+    "lon": 77.69805984140235,
+    "category": "Sportswear"
+  },
+  {
+    "name": "House District",
+    "lat": 13.044586446956803,
+    "lon": 77.52659073986761,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Maxx Fashion",
+    "lat": 12.895897079785422,
+    "lon": 77.57191709688293,
+    "category": "Casual"
+  },
+  {
+    "name": "Luxury Factory",
+    "lat": 12.879416311302311,
+    "lon": 77.75040240790203,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sneaker Centre",
+    "lat": 12.867856147270059,
+    "lon": 77.53453468741567,
+    "category": "Denim"
+  },
+  {
+    "name": "Active Market",
+    "lat": 12.91580530743182,
+    "lon": 77.65615874918905,
+    "category": "Luxury"
+  },
+  {
+    "name": "Cotton Nation",
+    "lat": 13.104852815107668,
+    "lon": 77.71840250447836,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Label Works",
+    "lat": 12.817591279960963,
+    "lon": 77.57426995344343,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Elite Outlet",
+    "lat": 13.143219679314523,
+    "lon": 77.58133209393469,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Casual Lane",
+    "lat": 13.014695703785808,
+    "lon": 77.451230025556,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Denim Room",
+    "lat": 13.09493966411014,
+    "lon": 77.55756794113555,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Fab World",
+    "lat": 13.106688849503245,
+    "lon": 77.48135077829913,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Urban House",
+    "lat": 12.956975816157431,
+    "lon": 77.7091188895206,
+    "category": "Casual"
+  },
+  {
+    "name": "Core Store",
+    "lat": 13.039741914116192,
+    "lon": 77.59177869760371,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Metro Shop",
+    "lat": 12.975047641293257,
+    "lon": 77.41319727039448,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Fab House",
+    "lat": 12.990751137117377,
+    "lon": 77.40233081832491,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Fit Studio",
+    "lat": 13.080652057020407,
+    "lon": 77.55024125959076,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Capsule Lane",
+    "lat": 13.081411909822501,
+    "lon": 77.56625855471282,
+    "category": "Denim"
+  },
+  {
+    "name": "Label Co",
+    "lat": 13.146578167490716,
+    "lon": 77.46903528541452,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Ethnic Studio",
+    "lat": 13.1096559813938,
+    "lon": 77.52509067193586,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Core House",
+    "lat": 13.107720209968132,
+    "lon": 77.51012706227506,
+    "category": "Denim"
+  },
+  {
+    "name": "Elite Market",
+    "lat": 12.950071394401535,
+    "lon": 77.72428342041579,
+    "category": "Denim"
+  },
+  {
+    "name": "Studio Corner",
+    "lat": 12.809570350855484,
+    "lon": 77.40912339623787,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Co Room",
+    "lat": 13.082287456877346,
+    "lon": 77.75877469220352,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Active Nation",
+    "lat": 12.970368341832458,
+    "lon": 77.65947402431875,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Elite Boutique",
+    "lat": 12.902236549848991,
+    "lon": 77.53516483127663,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Classic Works",
+    "lat": 12.961465530038021,
+    "lon": 77.78588539094082,
+    "category": "Formal"
+  },
+  {
+    "name": "Vintage Collective",
+    "lat": 13.003421193907837,
+    "lon": 77.7304747840653,
+    "category": "Luxury"
+  },
+  {
+    "name": "Studio Lab",
+    "lat": 12.94648162156826,
+    "lon": 77.68440041623498,
+    "category": "Casual"
+  },
+  {
+    "name": "Sneaker Corner",
+    "lat": 13.143762243492258,
+    "lon": 77.45894912014661,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Metro Co",
+    "lat": 12.815693201455895,
+    "lon": 77.77839503043161,
+    "category": "Casual"
+  },
+  {
+    "name": "Vintage House",
+    "lat": 13.08101412060607,
+    "lon": 77.66983738716345,
+    "category": "Denim"
+  },
+  {
+    "name": "Cotton Shop",
+    "lat": 12.873535046916308,
+    "lon": 77.50267773462625,
+    "category": "Formal"
+  },
+  {
+    "name": "Trend Lab",
+    "lat": 13.04538938576016,
+    "lon": 77.71498897767644,
+    "category": "Formal"
+  },
+  {
+    "name": "Sport Gallery",
+    "lat": 12.801271789157392,
+    "lon": 77.6629274832004,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Maxx Boutique",
+    "lat": 13.067105956722324,
+    "lon": 77.68913357581994,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Sneaker House",
+    "lat": 12.993778909654976,
+    "lon": 77.50841276743306,
+    "category": "Casual"
+  },
+  {
+    "name": "Urban Nation",
+    "lat": 13.147159715318756,
+    "lon": 77.44516294180764,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Metro Market",
+    "lat": 12.868577822164337,
+    "lon": 77.44834187279,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Cotton Shop",
+    "lat": 12.998481655503229,
+    "lon": 77.43571161483767,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Ethnic Hub",
+    "lat": 13.128382120630183,
+    "lon": 77.67277513957,
+    "category": "Luxury"
+  },
+  {
+    "name": "Sneaker Point",
+    "lat": 13.13037191250974,
+    "lon": 77.70590750552105,
+    "category": "Formal"
+  },
+  {
+    "name": "Luxury District",
+    "lat": 13.03195762233259,
+    "lon": 77.6676652337754,
+    "category": "Denim"
+  },
+  {
+    "name": "Modern Gallery",
+    "lat": 12.975998610588142,
+    "lon": 77.467235086892,
+    "category": "Formal"
+  },
+  {
+    "name": "City Apparel",
+    "lat": 13.033662236397783,
+    "lon": 77.71740930523708,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Street World",
+    "lat": 12.80409235539228,
+    "lon": 77.48103344460296,
+    "category": "Luxury"
+  },
+  {
+    "name": "Ethnic Centre",
+    "lat": 12.928239197622823,
+    "lon": 77.76934815409969,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Ethnic Outlet",
+    "lat": 13.127225181282233,
+    "lon": 77.6167261747141,
+    "category": "Formal"
+  },
+  {
+    "name": "Urban District",
+    "lat": 13.091261339322568,
+    "lon": 77.49799128717619,
+    "category": "Luxury"
+  },
+  {
+    "name": "Urban Studio",
+    "lat": 12.849875726924143,
+    "lon": 77.4510964006967,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Sneaker House",
+    "lat": 12.937120730304882,
+    "lon": 77.62917917906329,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Fit Centre",
+    "lat": 12.931645895227835,
+    "lon": 77.64327798665403,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Sneaker Collective",
+    "lat": 13.102790194737612,
+    "lon": 77.76011118724722,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Label Lane",
+    "lat": 13.136886562564813,
+    "lon": 77.74958725380705,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Maxx Nation",
+    "lat": 12.868409412925397,
+    "lon": 77.51249642732758,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Ethnic Boutique",
+    "lat": 13.08580078196981,
+    "lon": 77.5166969513226,
+    "category": "Denim"
+  },
+  {
+    "name": "Luxury Market",
+    "lat": 13.039508334824617,
+    "lon": 77.40876169486562,
+    "category": "Luxury"
+  },
+  {
+    "name": "Casual Centre",
+    "lat": 12.920202587049173,
+    "lon": 77.5550567006022,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Fit Centre",
+    "lat": 12.839136614758276,
+    "lon": 77.48708508661686,
+    "category": "Casual"
+  },
+  {
+    "name": "Ethnic House",
+    "lat": 13.148529331341093,
+    "lon": 77.45581934867741,
+    "category": "Casual"
+  },
+  {
+    "name": "Capsule House",
+    "lat": 12.811809847640438,
+    "lon": 77.60333083959834,
+    "category": "Denim"
+  },
+  {
+    "name": "Luxury Closet",
+    "lat": 13.058389645392719,
+    "lon": 77.56130854177414,
+    "category": "Formal"
+  },
+  {
+    "name": "Vintage Store",
+    "lat": 12.858823266181224,
+    "lon": 77.46732450179168,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Silk Corner",
+    "lat": 12.84479732131759,
+    "lon": 77.75521591709426,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Luxury Gallery",
+    "lat": 12.951993295497624,
+    "lon": 77.6042750345696,
+    "category": "Luxury"
+  },
+  {
+    "name": "Style Co",
+    "lat": 12.849823909220715,
+    "lon": 77.51142074758431,
+    "category": "Denim"
+  },
+  {
+    "name": "Metro Market",
+    "lat": 13.006679890776146,
+    "lon": 77.42959290251159,
+    "category": "Luxury"
+  },
+  {
+    "name": "Active Closet",
+    "lat": 12.84332372857534,
+    "lon": 77.7853405691951,
+    "category": "Luxury"
+  },
+  {
+    "name": "Classic Shop",
+    "lat": 13.09935274941249,
+    "lon": 77.62231984291398,
+    "category": "Casual"
+  },
+  {
+    "name": "Vintage Factory",
+    "lat": 12.813719398935824,
+    "lon": 77.61811372044421,
+    "category": "Denim"
+  },
+  {
+    "name": "Elite Lane",
+    "lat": 13.050595764496702,
+    "lon": 77.49125884995216,
+    "category": "Casual"
+  },
+  {
+    "name": "Luxury Room",
+    "lat": 13.015942755072011,
+    "lon": 77.67749584374309,
+    "category": "Formal"
+  },
+  {
+    "name": "Ethnic Co",
+    "lat": 12.948933482218504,
+    "lon": 77.45468422259529,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Trend Centre",
+    "lat": 12.821769473370818,
+    "lon": 77.72474299672955,
+    "category": "Luxury"
+  },
+  {
+    "name": "Label Factory",
+    "lat": 12.96963969457039,
+    "lon": 77.4337217650898,
+    "category": "Formal"
+  },
+  {
+    "name": "Prime Works",
+    "lat": 13.051312960467644,
+    "lon": 77.75820946235741,
+    "category": "Denim"
+  },
+  {
+    "name": "Modern Apparel",
+    "lat": 13.007405345330803,
+    "lon": 77.70867346460867,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Style Store",
+    "lat": 12.804237131211822,
+    "lon": 77.41591077620276,
+    "category": "Formal"
+  },
+  {
+    "name": "Maxx Works",
+    "lat": 13.075804184462323,
+    "lon": 77.51197358358382,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Metro Market",
+    "lat": 12.923814323521503,
+    "lon": 77.6600016300087,
+    "category": "Casual"
+  },
+  {
+    "name": "Label Nation",
+    "lat": 13.093591630820569,
+    "lon": 77.48205077865141,
+    "category": "Formal"
+  },
+  {
+    "name": "Denim Factory",
+    "lat": 12.901991266703135,
+    "lon": 77.68032046634144,
+    "category": "Formal"
+  },
+  {
+    "name": "City Closet",
+    "lat": 13.07842164570008,
+    "lon": 77.70086806149304,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Urban Lab",
+    "lat": 12.990131743139735,
+    "lon": 77.63196605520461,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Fab Shop",
+    "lat": 12.982041321870284,
+    "lon": 77.50815451692782,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Modern Store",
+    "lat": 13.038964476424042,
+    "lon": 77.77311636806216,
+    "category": "Casual"
+  },
+  {
+    "name": "Silk Apparel",
+    "lat": 12.879794179209432,
+    "lon": 77.59740889885624,
+    "category": "Luxury"
+  },
+  {
+    "name": "Prime Hub",
+    "lat": 12.953756787901739,
+    "lon": 77.54141665415395,
+    "category": "Denim"
+  },
+  {
+    "name": "Modern Hub",
+    "lat": 12.873170560391673,
+    "lon": 77.76966313175008,
+    "category": "Casual"
+  },
+  {
+    "name": "Sneaker World",
+    "lat": 12.881037102247598,
+    "lon": 77.63562693600134,
+    "category": "Casual"
+  },
+  {
+    "name": "Urban Market",
+    "lat": 12.912305722393413,
+    "lon": 77.71836029173545,
+    "category": "Denim"
+  },
+  {
+    "name": "Co Lane",
+    "lat": 12.83713163074388,
+    "lon": 77.40311637621899,
+    "category": "Formal"
+  },
+  {
+    "name": "Luxury House",
+    "lat": 12.992944488991762,
+    "lon": 77.70053043476503,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Modern Corner",
+    "lat": 12.818857971391092,
+    "lon": 77.64054073925664,
+    "category": "Sportswear"
+  },
+  {
+    "name": "City Collective",
+    "lat": 12.887549966677316,
+    "lon": 77.68958727110322,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Capsule Works",
+    "lat": 13.128297774548507,
+    "lon": 77.55113135098131,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Luxury Lab",
+    "lat": 13.113645794388983,
+    "lon": 77.79758085106396,
+    "category": "Luxury"
+  },
+  {
+    "name": "Fab Collective",
+    "lat": 12.974824302143888,
+    "lon": 77.54620394298294,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Prime Boutique",
+    "lat": 13.124092456076077,
+    "lon": 77.7926259984009,
+    "category": "Denim"
+  },
+  {
+    "name": "City District",
+    "lat": 12.923950207668392,
+    "lon": 77.63217068200726,
+    "category": "Casual"
+  },
+  {
+    "name": "Fit Apparel",
+    "lat": 12.84449011599467,
+    "lon": 77.56883681447187,
+    "category": "Luxury"
+  },
+  {
+    "name": "City Outlet",
+    "lat": 12.804169455169434,
+    "lon": 77.62173798742273,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Sneaker Corner",
+    "lat": 13.070625139622992,
+    "lon": 77.44988268058121,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Vintage Room",
+    "lat": 12.847244088242771,
+    "lon": 77.69801416718605,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Label Centre",
+    "lat": 12.861027942456948,
+    "lon": 77.44137476670406,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Elite House",
+    "lat": 13.077570882577461,
+    "lon": 77.44313414642149,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Fab Lab",
+    "lat": 12.982948614811148,
+    "lon": 77.4336509373291,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Co District",
+    "lat": 12.928576672533785,
+    "lon": 77.55796393905318,
+    "category": "Luxury"
+  },
+  {
+    "name": "Metro Studio",
+    "lat": 13.144450964843948,
+    "lon": 77.57271588561714,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Silk Store",
+    "lat": 12.917753099905878,
+    "lon": 77.60818657580263,
+    "category": "Formal"
+  },
+  {
+    "name": "Ethnic Boutique",
+    "lat": 12.894728044694128,
+    "lon": 77.48710854359373,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Style Wear",
+    "lat": 12.915934828671471,
+    "lon": 77.61750768992032,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Studio Factory",
+    "lat": 12.854711787440955,
+    "lon": 77.75000412260505,
+    "category": "Luxury"
+  },
+  {
+    "name": "Cotton Works",
+    "lat": 12.825795237416703,
+    "lon": 77.56966342022645,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Sneaker Hub",
+    "lat": 13.027840823424985,
+    "lon": 77.78585831080761,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Ethnic Works",
+    "lat": 13.073976568851043,
+    "lon": 77.52807940740284,
+    "category": "Luxury"
+  },
+  {
+    "name": "Cotton Room",
+    "lat": 13.05396023295248,
+    "lon": 77.51781470733923,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Capsule Gallery",
+    "lat": 13.051231231315302,
+    "lon": 77.66742230936683,
+    "category": "Denim"
+  },
+  {
+    "name": "Luxury Hub",
+    "lat": 13.059240528229166,
+    "lon": 77.4567548060549,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Silk Lane",
+    "lat": 12.998444688676653,
+    "lon": 77.41833947419816,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Vintage Factory",
+    "lat": 12.817000493287134,
+    "lon": 77.68310494560515,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Collective",
+    "lat": 13.013870731819935,
+    "lon": 77.60664195160459,
+    "category": "Casual"
+  },
+  {
+    "name": "Co Apparel",
+    "lat": 12.963274813559977,
+    "lon": 77.4292959011707,
+    "category": "Luxury"
+  },
+  {
+    "name": "Trend Room",
+    "lat": 13.00918141120006,
+    "lon": 77.42019172177677,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Vintage World",
+    "lat": 13.033356508589087,
+    "lon": 77.67941406804778,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Denim Shop",
+    "lat": 13.130810931655855,
+    "lon": 77.6693294056649,
+    "category": "Luxury"
+  },
+  {
+    "name": "Co Lab",
+    "lat": 13.108579933315042,
+    "lon": 77.76714052408,
+    "category": "Casual"
+  },
+  {
+    "name": "Elite Factory",
+    "lat": 12.886609276735095,
+    "lon": 77.5779141873374,
+    "category": "Formal"
+  },
+  {
+    "name": "Street Outlet",
+    "lat": 12.956022758669807,
+    "lon": 77.77437047193807,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Luxury Studio",
+    "lat": 12.953355777815627,
+    "lon": 77.42551852955067,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Style Wear",
+    "lat": 12.983329408582312,
+    "lon": 77.5109583276424,
+    "category": "Denim"
+  },
+  {
+    "name": "Silk Closet",
+    "lat": 12.921463688550446,
+    "lon": 77.41604289082134,
+    "category": "Luxury"
+  },
+  {
+    "name": "Casual Outlet",
+    "lat": 12.817334022210797,
+    "lon": 77.59790174311712,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Denim District",
+    "lat": 12.846136057098326,
+    "lon": 77.44234671177999,
+    "category": "Luxury"
+  },
+  {
+    "name": "Active Outlet",
+    "lat": 13.062752344801742,
+    "lon": 77.53944243014128,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Sport World",
+    "lat": 12.914094447621824,
+    "lon": 77.6611612020092,
+    "category": "Formal"
+  },
+  {
+    "name": "Capsule District",
+    "lat": 12.844057012290397,
+    "lon": 77.47501415118715,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Street Room",
+    "lat": 13.123538930178825,
+    "lon": 77.4077940216152,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Maxx Shop",
+    "lat": 13.147571862300033,
+    "lon": 77.62501092944387,
+    "category": "Sneakers"
+  },
+  {
+    "name": "House Factory",
+    "lat": 12.91473766031414,
+    "lon": 77.64928366973851,
+    "category": "Casual"
+  },
+  {
+    "name": "Vintage House",
+    "lat": 12.827082000926595,
+    "lon": 77.49449312189765,
+    "category": "Denim"
+  },
+  {
+    "name": "Street Centre",
+    "lat": 12.886357227381769,
+    "lon": 77.46746418826402,
+    "category": "Luxury"
+  },
+  {
+    "name": "Classic Factory",
+    "lat": 12.840369004428073,
+    "lon": 77.68759724574159,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Maxx Nation",
+    "lat": 12.984875809813001,
+    "lon": 77.70999432321074,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Core Corner",
+    "lat": 12.921145491153666,
+    "lon": 77.40155225526779,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Co Hub",
+    "lat": 12.83888042266667,
+    "lon": 77.468285709842,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Elite House",
+    "lat": 12.979560724105827,
+    "lon": 77.78934260551048,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Trend Hub",
+    "lat": 13.082528854986672,
+    "lon": 77.77591310319453,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Street Closet",
+    "lat": 13.064325381162321,
+    "lon": 77.5029241138023,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Prime House",
+    "lat": 13.053208933838818,
+    "lon": 77.46577181024436,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Elite Factory",
+    "lat": 12.884769790977462,
+    "lon": 77.59792511523301,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Co Store",
+    "lat": 12.846198553117217,
+    "lon": 77.68248260211303,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Factory",
+    "lat": 13.0643250282348,
+    "lon": 77.7008350722787,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Fit Corner",
+    "lat": 12.895980470149254,
+    "lon": 77.74146351350531,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Fab Shop",
+    "lat": 13.019117400989135,
+    "lon": 77.44004735418662,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Capsule Closet",
+    "lat": 13.004187613562706,
+    "lon": 77.54770366324938,
+    "category": "Luxury"
+  },
+  {
+    "name": "Silk Hub",
+    "lat": 12.90414564182265,
+    "lon": 77.63943022732077,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Denim Studio",
+    "lat": 13.041328236772362,
+    "lon": 77.46217807001653,
+    "category": "Denim"
+  },
+  {
+    "name": "Urban Co",
+    "lat": 12.912717088563655,
+    "lon": 77.73646304797464,
+    "category": "Streetwear"
+  },
+  {
+    "name": "City Studio",
+    "lat": 13.000670219433998,
+    "lon": 77.49976432720571,
+    "category": "Casual"
+  },
+  {
+    "name": "Co Lab",
+    "lat": 12.803677756420953,
+    "lon": 77.4575721726517,
+    "category": "Formal"
+  },
+  {
+    "name": "Denim Fashion",
+    "lat": 13.103331434126774,
+    "lon": 77.5044352236475,
+    "category": "Casual"
+  },
+  {
+    "name": "House Hub",
+    "lat": 13.135008096663972,
+    "lon": 77.53079703992894,
+    "category": "Luxury"
+  },
+  {
+    "name": "Sport Store",
+    "lat": 13.118900828284637,
+    "lon": 77.489653251156,
+    "category": "Luxury"
+  },
+  {
+    "name": "Studio Shop",
+    "lat": 12.866696160641528,
+    "lon": 77.53438268787826,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Style Lab",
+    "lat": 12.988840580240783,
+    "lon": 77.76319001857331,
+    "category": "Streetwear"
+  },
+  {
+    "name": "House Store",
+    "lat": 12.911834786470779,
+    "lon": 77.44843575545514,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Denim Corner",
+    "lat": 12.994061297794966,
+    "lon": 77.57742369242844,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Casual Room",
+    "lat": 12.848962226269471,
+    "lon": 77.41409963253822,
+    "category": "Luxury"
+  },
+  {
+    "name": "Elite Nation",
+    "lat": 12.96155853055841,
+    "lon": 77.68565338468375,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Fab Room",
+    "lat": 12.965247174831111,
+    "lon": 77.53477590778219,
+    "category": "Luxury"
+  },
+  {
+    "name": "Modern Collective",
+    "lat": 12.971560846539289,
+    "lon": 77.5746732166738,
+    "category": "Casual"
+  },
+  {
+    "name": "Trend World",
+    "lat": 12.925998280367146,
+    "lon": 77.5619924327404,
+    "category": "Formal"
+  },
+  {
+    "name": "House Shop",
+    "lat": 12.864356855960425,
+    "lon": 77.6569437905426,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Fit Boutique",
+    "lat": 12.942232224982888,
+    "lon": 77.6010576275807,
+    "category": "Formal"
+  },
+  {
+    "name": "City World",
+    "lat": 13.132271678353822,
+    "lon": 77.67631763991065,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Studio Works",
+    "lat": 13.024689492731927,
+    "lon": 77.42871146256832,
+    "category": "Casual"
+  },
+  {
+    "name": "Maxx District",
+    "lat": 13.047019307483305,
+    "lon": 77.62486209560302,
+    "category": "Casual"
+  },
+  {
+    "name": "Cotton Hub",
+    "lat": 12.814154807218614,
+    "lon": 77.5973158552879,
+    "category": "Formal"
+  },
+  {
+    "name": "Co Centre",
+    "lat": 13.064773538200713,
+    "lon": 77.79243837910789,
+    "category": "Sportswear"
+  },
+  {
+    "name": "City World",
+    "lat": 13.149695556528737,
+    "lon": 77.70741589499272,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Core Store",
+    "lat": 12.819339460587686,
+    "lon": 77.44792003899114,
+    "category": "Luxury"
+  },
+  {
+    "name": "Luxury Boutique",
+    "lat": 13.001973498148114,
+    "lon": 77.46150881498257,
+    "category": "Formal"
+  },
+  {
+    "name": "Active District",
+    "lat": 12.936814814076449,
+    "lon": 77.72356388423842,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Capsule Lab",
+    "lat": 13.009960203022175,
+    "lon": 77.76767176075462,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Fab Fashion",
+    "lat": 12.892816456638933,
+    "lon": 77.69266772270849,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Elite Outlet",
+    "lat": 13.098387868901302,
+    "lon": 77.40242700180401,
+    "category": "Casual"
+  },
+  {
+    "name": "Sport Nation",
+    "lat": 13.01110280110972,
+    "lon": 77.69482561374834,
+    "category": "Casual"
+  },
+  {
+    "name": "Casual Collective",
+    "lat": 13.069609077431524,
+    "lon": 77.52161981111657,
+    "category": "Casual"
+  },
+  {
+    "name": "Label Nation",
+    "lat": 12.915441962405088,
+    "lon": 77.69319303276973,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Urban Store",
+    "lat": 12.894494794709724,
+    "lon": 77.74503520670773,
+    "category": "Formal"
+  },
+  {
+    "name": "Trend Fashion",
+    "lat": 12.965916920785974,
+    "lon": 77.69388519509714,
+    "category": "Denim"
+  },
+  {
+    "name": "Active Fashion",
+    "lat": 13.009955594266726,
+    "lon": 77.78633639411095,
+    "category": "FastFashion"
+  },
+  {
+    "name": "City Apparel",
+    "lat": 13.054642692325322,
+    "lon": 77.479166816775,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Denim Wear",
+    "lat": 13.031061943506675,
+    "lon": 77.47243535543222,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Elite Co",
+    "lat": 12.908642565124646,
+    "lon": 77.46087991674985,
+    "category": "FastFashion"
+  },
+  {
+    "name": "City World",
+    "lat": 12.847832061280238,
+    "lon": 77.4743738954473,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Cotton Store",
+    "lat": 12.982302407582822,
+    "lon": 77.40219805918304,
+    "category": "Casual"
+  },
+  {
+    "name": "Prime Hub",
+    "lat": 13.054480019681105,
+    "lon": 77.73131697097678,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Classic Wear",
+    "lat": 12.908125918595582,
+    "lon": 77.72150981569354,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Elite House",
+    "lat": 12.819288299666033,
+    "lon": 77.44413754195345,
+    "category": "Denim"
+  },
+  {
+    "name": "Urban World",
+    "lat": 12.988777357057707,
+    "lon": 77.65548112527819,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Studio World",
+    "lat": 13.092245589055212,
+    "lon": 77.68357118647602,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Silk Factory",
+    "lat": 12.979871920765875,
+    "lon": 77.55965619794284,
+    "category": "Luxury"
+  },
+  {
+    "name": "Vintage Point",
+    "lat": 12.918627296498622,
+    "lon": 77.64253448177931,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Luxury Wear",
+    "lat": 13.117868017757486,
+    "lon": 77.7088809098101,
+    "category": "Luxury"
+  },
+  {
+    "name": "Vintage Lab",
+    "lat": 12.856077932602298,
+    "lon": 77.40534910880942,
+    "category": "Casual"
+  },
+  {
+    "name": "Studio Works",
+    "lat": 12.90200710905842,
+    "lon": 77.67520691380236,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Studio Lab",
+    "lat": 13.00563808665147,
+    "lon": 77.74499853097197,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Vintage Room",
+    "lat": 12.887581281927076,
+    "lon": 77.47690420115931,
+    "category": "Casual"
+  },
+  {
+    "name": "Elite District",
+    "lat": 12.898119597859132,
+    "lon": 77.71004082283154,
+    "category": "Streetwear"
+  },
+  {
+    "name": "House Factory",
+    "lat": 13.024463946106632,
+    "lon": 77.74559840018713,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Denim House",
+    "lat": 12.820403881003381,
+    "lon": 77.41269336975081,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Casual Factory",
+    "lat": 12.939797876491403,
+    "lon": 77.61042380936993,
+    "category": "Denim"
+  },
+  {
+    "name": "Capsule Market",
+    "lat": 13.039118529757058,
+    "lon": 77.72300175528993,
+    "category": "Luxury"
+  },
+  {
+    "name": "Silk Lab",
+    "lat": 12.833370424525732,
+    "lon": 77.73080029804588,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Ethnic Apparel",
+    "lat": 13.002004790441772,
+    "lon": 77.65472940246005,
+    "category": "Casual"
+  },
+  {
+    "name": "Classic Boutique",
+    "lat": 13.086734523283999,
+    "lon": 77.44497743432834,
+    "category": "Casual"
+  },
+  {
+    "name": "Capsule Works",
+    "lat": 12.806708766510232,
+    "lon": 77.55331138964661,
+    "category": "Luxury"
+  },
+  {
+    "name": "Co Studio",
+    "lat": 13.056487186587633,
+    "lon": 77.43310187288218,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Cotton Lane",
+    "lat": 12.973150554525311,
+    "lon": 77.5294499123175,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Fit Gallery",
+    "lat": 12.983957701900085,
+    "lon": 77.75941573081303,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Studio House",
+    "lat": 12.854598211889952,
+    "lon": 77.79958675278696,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Style Lab",
+    "lat": 12.94225962037127,
+    "lon": 77.78613988281205,
+    "category": "Denim"
+  },
+  {
+    "name": "Urban Fashion",
+    "lat": 13.045746706889583,
+    "lon": 77.4464065714485,
+    "category": "Denim"
+  },
+  {
+    "name": "House Market",
+    "lat": 12.96382348603612,
+    "lon": 77.61985885471742,
+    "category": "Formal"
+  },
+  {
+    "name": "Trend Room",
+    "lat": 12.934653311196646,
+    "lon": 77.49614237819956,
+    "category": "Formal"
+  },
+  {
+    "name": "Denim Corner",
+    "lat": 12.829024077238987,
+    "lon": 77.68137721252207,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Label Fashion",
+    "lat": 13.025708595866503,
+    "lon": 77.57709942522773,
+    "category": "Denim"
+  },
+  {
+    "name": "Silk Wear",
+    "lat": 13.07304254874226,
+    "lon": 77.47326774285492,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Capsule Closet",
+    "lat": 12.96145451943616,
+    "lon": 77.67251817041547,
+    "category": "Streetwear"
+  },
+  {
+    "name": "House Hub",
+    "lat": 12.9782154938227,
+    "lon": 77.67780047175756,
+    "category": "Luxury"
+  },
+  {
+    "name": "Cotton Wear",
+    "lat": 12.81867456831356,
+    "lon": 77.53200761578795,
+    "category": "FastFashion"
+  },
+  {
+    "name": "House Nation",
+    "lat": 12.929968827676548,
+    "lon": 77.5375296315284,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Maxx Collective",
+    "lat": 12.936561857885334,
+    "lon": 77.61338072516993,
+    "category": "Sneakers"
+  },
+  {
+    "name": "House Collective",
+    "lat": 13.087984466109189,
+    "lon": 77.61708934891325,
+    "category": "Luxury"
+  },
+  {
+    "name": "Classic Room",
+    "lat": 12.877631505629763,
+    "lon": 77.6769787359522,
+    "category": "Casual"
+  },
+  {
+    "name": "Co Works",
+    "lat": 12.886622358560956,
+    "lon": 77.53967785202353,
+    "category": "Denim"
+  },
+  {
+    "name": "Core Studio",
+    "lat": 13.056897152096996,
+    "lon": 77.59977655115105,
+    "category": "Sportswear"
+  },
+  {
+    "name": "House Works",
+    "lat": 12.849203155024112,
+    "lon": 77.60780397041766,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Luxury Outlet",
+    "lat": 12.848726932228942,
+    "lon": 77.64654467382246,
+    "category": "Streetwear"
+  },
+  {
+    "name": "House Nation",
+    "lat": 13.065615433902419,
+    "lon": 77.5055867140776,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Vintage Factory",
+    "lat": 13.083976903349738,
+    "lon": 77.74145420392776,
+    "category": "Denim"
+  },
+  {
+    "name": "Elite Centre",
+    "lat": 12.833158166552122,
+    "lon": 77.68246336562902,
+    "category": "Casual"
+  },
+  {
+    "name": "Vintage Factory",
+    "lat": 13.125321030054716,
+    "lon": 77.46154775775538,
+    "category": "Luxury"
+  },
+  {
+    "name": "Elite Works",
+    "lat": 13.056518435386174,
+    "lon": 77.44517531729801,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Metro World",
+    "lat": 13.053272991571724,
+    "lon": 77.68184684023666,
+    "category": "FastFashion"
+  },
+  {
+    "name": "City Factory",
+    "lat": 13.09959635177285,
+    "lon": 77.74097317500853,
+    "category": "Formal"
+  },
+  {
+    "name": "Label World",
+    "lat": 13.058175699720174,
+    "lon": 77.48660426766739,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Sneaker Hub",
+    "lat": 13.017239193609546,
+    "lon": 77.58847722732902,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Core House",
+    "lat": 13.03556557329158,
+    "lon": 77.49019645755521,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Cotton Market",
+    "lat": 12.9216182907545,
+    "lon": 77.76531244182924,
+    "category": "Denim"
+  },
+  {
+    "name": "City House",
+    "lat": 12.853509005738948,
+    "lon": 77.74452098434277,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Silk Store",
+    "lat": 13.116343864205415,
+    "lon": 77.5147728294761,
+    "category": "Formal"
+  },
+  {
+    "name": "Label Boutique",
+    "lat": 12.896076098747438,
+    "lon": 77.4775775724262,
+    "category": "Denim"
+  },
+  {
+    "name": "Style World",
+    "lat": 13.137292616796374,
+    "lon": 77.49001805329985,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style House",
+    "lat": 12.928670478887003,
+    "lon": 77.40661216183697,
+    "category": "Casual"
+  },
+  {
+    "name": "Denim Apparel",
+    "lat": 12.842003741382875,
+    "lon": 77.56744291901464,
+    "category": "Denim"
+  },
+  {
+    "name": "Luxury Centre",
+    "lat": 13.148540690241562,
+    "lon": 77.572075036278,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Classic Room",
+    "lat": 12.929469760369233,
+    "lon": 77.66555535295805,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Prime Gallery",
+    "lat": 12.865339917040806,
+    "lon": 77.40726873751376,
+    "category": "Formal"
+  },
+  {
+    "name": "Fit Co",
+    "lat": 12.897734663807222,
+    "lon": 77.61874312279917,
+    "category": "Luxury"
+  },
+  {
+    "name": "Sport Apparel",
+    "lat": 12.852214693190657,
+    "lon": 77.68656904669976,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Co Store",
+    "lat": 12.883727371754675,
+    "lon": 77.52666522448227,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Luxury Fashion",
+    "lat": 12.967280568451898,
+    "lon": 77.49988444784256,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Luxury Studio",
+    "lat": 13.0598926256034,
+    "lon": 77.63056507572101,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Classic Closet",
+    "lat": 13.013804833080291,
+    "lon": 77.48790703860858,
+    "category": "Casual"
+  },
+  {
+    "name": "Denim Hub",
+    "lat": 12.867937069892742,
+    "lon": 77.56784650332152,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Urban Hub",
+    "lat": 12.926414662603628,
+    "lon": 77.75490029620164,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Label Corner",
+    "lat": 12.966116433594344,
+    "lon": 77.45388627657023,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Street Point",
+    "lat": 13.121974220149626,
+    "lon": 77.56585554921313,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Label Outlet",
+    "lat": 12.961633779361112,
+    "lon": 77.78278430254694,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Co Boutique",
+    "lat": 13.073827467055366,
+    "lon": 77.74307880198,
+    "category": "Luxury"
+  },
+  {
+    "name": "Denim Gallery",
+    "lat": 12.820060250861182,
+    "lon": 77.41343046740556,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Metro Works",
+    "lat": 12.979866735158321,
+    "lon": 77.5160559890539,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Style Shop",
+    "lat": 12.80868091473401,
+    "lon": 77.65444621917003,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Trend Closet",
+    "lat": 12.996949487845399,
+    "lon": 77.76037912029395,
+    "category": "Denim"
+  },
+  {
+    "name": "Metro Fashion",
+    "lat": 13.064897132941262,
+    "lon": 77.57352911629235,
+    "category": "Luxury"
+  },
+  {
+    "name": "Capsule Co",
+    "lat": 13.090255784022537,
+    "lon": 77.7320230981131,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Urban Point",
+    "lat": 13.075997459326915,
+    "lon": 77.41759890027836,
+    "category": "Denim"
+  },
+  {
+    "name": "House Studio",
+    "lat": 12.993403629751619,
+    "lon": 77.55539535872951,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Trend Studio",
+    "lat": 12.919362008384729,
+    "lon": 77.55359559070281,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style World",
+    "lat": 13.14814400109881,
+    "lon": 77.5946470337788,
+    "category": "Luxury"
+  },
+  {
+    "name": "Elite District",
+    "lat": 13.135970186076348,
+    "lon": 77.77370938467186,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Urban Store",
+    "lat": 12.801897289051727,
+    "lon": 77.48924971213472,
+    "category": "Casual"
+  },
+  {
+    "name": "Ethnic House",
+    "lat": 12.969302288416724,
+    "lon": 77.63921387925407,
+    "category": "Ethnic"
+  },
+  {
+    "name": "House Room",
+    "lat": 13.002697051069534,
+    "lon": 77.51183239799555,
+    "category": "Luxury"
+  },
+  {
+    "name": "Core Centre",
+    "lat": 13.059753431149682,
+    "lon": 77.71321086846173,
+    "category": "Casual"
+  },
+  {
+    "name": "Modern Centre",
+    "lat": 12.884859598729363,
+    "lon": 77.70430734128539,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Style Market",
+    "lat": 13.070452801044041,
+    "lon": 77.59717722408575,
+    "category": "Denim"
+  },
+  {
+    "name": "Street Shop",
+    "lat": 12.964356556160336,
+    "lon": 77.62004054439889,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Core Market",
+    "lat": 12.814688551775053,
+    "lon": 77.51962808975298,
+    "category": "Casual"
+  },
+  {
+    "name": "Ethnic Centre",
+    "lat": 12.902462903222277,
+    "lon": 77.66487581274774,
+    "category": "Denim"
+  },
+  {
+    "name": "Co Gallery",
+    "lat": 12.976900388510956,
+    "lon": 77.51387169816165,
+    "category": "Denim"
+  },
+  {
+    "name": "City District",
+    "lat": 13.064714419856866,
+    "lon": 77.62455633163525,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Cotton Market",
+    "lat": 12.805841635080284,
+    "lon": 77.78010450973139,
+    "category": "Casual"
+  },
+  {
+    "name": "Cotton Lab",
+    "lat": 13.130036366604752,
+    "lon": 77.5417680951024,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Fit District",
+    "lat": 12.967493326710118,
+    "lon": 77.64747167564367,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Ethnic Market",
+    "lat": 13.146207324954862,
+    "lon": 77.76221717571654,
+    "category": "Luxury"
+  },
+  {
+    "name": "Cotton Corner",
+    "lat": 13.100379626182919,
+    "lon": 77.47381932979482,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Cotton Works",
+    "lat": 13.030785183553734,
+    "lon": 77.43230185615792,
+    "category": "Casual"
+  },
+  {
+    "name": "Maxx House",
+    "lat": 12.947123619069211,
+    "lon": 77.51009833376129,
+    "category": "Luxury"
+  },
+  {
+    "name": "Active Point",
+    "lat": 12.809372822130015,
+    "lon": 77.45297424002584,
+    "category": "Formal"
+  },
+  {
+    "name": "Co Collective",
+    "lat": 12.93527671263099,
+    "lon": 77.67477154890338,
+    "category": "Casual"
+  },
+  {
+    "name": "Co Corner",
+    "lat": 13.058712672564226,
+    "lon": 77.41266077983862,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Luxury Fashion",
+    "lat": 12.828136892487125,
+    "lon": 77.55189202046513,
+    "category": "Luxury"
+  },
+  {
+    "name": "Vintage Corner",
+    "lat": 12.884954987355687,
+    "lon": 77.55376616214377,
+    "category": "Luxury"
+  },
+  {
+    "name": "House Closet",
+    "lat": 13.121518408078268,
+    "lon": 77.58935476097625,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Silk Store",
+    "lat": 12.911917936545148,
+    "lon": 77.57217402928374,
+    "category": "Denim"
+  },
+  {
+    "name": "Casual Room",
+    "lat": 13.071154204969613,
+    "lon": 77.46224701089743,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style World",
+    "lat": 13.095232903786254,
+    "lon": 77.75151131709163,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Fab Lane",
+    "lat": 12.831786234001338,
+    "lon": 77.60181211649493,
+    "category": "Formal"
+  },
+  {
+    "name": "Studio Boutique",
+    "lat": 12.886582142771388,
+    "lon": 77.44831613349078,
+    "category": "Denim"
+  },
+  {
+    "name": "Prime Hub",
+    "lat": 13.121285924247546,
+    "lon": 77.67862955607345,
+    "category": "Casual"
+  },
+  {
+    "name": "Metro Nation",
+    "lat": 13.109635449808849,
+    "lon": 77.61334085512414,
+    "category": "Denim"
+  },
+  {
+    "name": "Modern Co",
+    "lat": 13.007553083707155,
+    "lon": 77.59417023520534,
+    "category": "Denim"
+  },
+  {
+    "name": "Elite Co",
+    "lat": 13.11491136222336,
+    "lon": 77.78711314700972,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Capsule Market",
+    "lat": 13.105839226641686,
+    "lon": 77.73372605719234,
+    "category": "Denim"
+  },
+  {
+    "name": "Modern Centre",
+    "lat": 12.925610316472222,
+    "lon": 77.67078649728704,
+    "category": "Denim"
+  },
+  {
+    "name": "Style Outlet",
+    "lat": 13.10839707505034,
+    "lon": 77.58374593943277,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Denim Point",
+    "lat": 13.023127653067753,
+    "lon": 77.61175291579414,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sport House",
+    "lat": 13.035127970457571,
+    "lon": 77.45027731698585,
+    "category": "Luxury"
+  },
+  {
+    "name": "Cotton Market",
+    "lat": 13.081045602677351,
+    "lon": 77.72548087786343,
+    "category": "Casual"
+  },
+  {
+    "name": "Capsule Collective",
+    "lat": 13.117553520498227,
+    "lon": 77.66250798923706,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Maxx Apparel",
+    "lat": 12.981017513188503,
+    "lon": 77.50070682368847,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Silk Factory",
+    "lat": 13.0561481662984,
+    "lon": 77.58724279685468,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Prime Gallery",
+    "lat": 13.084199291480672,
+    "lon": 77.79993092506653,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Classic Lane",
+    "lat": 12.885205596297785,
+    "lon": 77.6767489292003,
+    "category": "Denim"
+  },
+  {
+    "name": "City World",
+    "lat": 13.074057027643168,
+    "lon": 77.78464205628646,
+    "category": "Luxury"
+  },
+  {
+    "name": "Modern Corner",
+    "lat": 12.907576842994215,
+    "lon": 77.65058086313513,
+    "category": "Ethnic"
+  },
+  {
+    "name": "City Gallery",
+    "lat": 13.108720835689876,
+    "lon": 77.40551160277117,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Maxx House",
+    "lat": 12.870913814400819,
+    "lon": 77.45342442283307,
+    "category": "Casual"
+  },
+  {
+    "name": "Prime Hub",
+    "lat": 12.937412453754023,
+    "lon": 77.41178948756566,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Core Corner",
+    "lat": 13.116767638751748,
+    "lon": 77.55431203798337,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Silk Fashion",
+    "lat": 12.939363976047433,
+    "lon": 77.41217606598867,
+    "category": "Ethnic"
+  },
+  {
+    "name": "House Collective",
+    "lat": 13.000181816938902,
+    "lon": 77.50452089797669,
+    "category": "Denim"
+  },
+  {
+    "name": "Active Store",
+    "lat": 13.103172372292342,
+    "lon": 77.76878629087112,
+    "category": "Casual"
+  },
+  {
+    "name": "Prime Wear",
+    "lat": 13.13566167160659,
+    "lon": 77.71175099500148,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Maxx Nation",
+    "lat": 13.058722208649574,
+    "lon": 77.53478291272036,
+    "category": "Casual"
+  },
+  {
+    "name": "Cotton Store",
+    "lat": 13.00930807037058,
+    "lon": 77.50915555813266,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Sport Room",
+    "lat": 13.07250446757034,
+    "lon": 77.41713091158586,
+    "category": "Formal"
+  },
+  {
+    "name": "Urban Gallery",
+    "lat": 12.800998243301319,
+    "lon": 77.742114329873,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Label Collective",
+    "lat": 12.925589616847683,
+    "lon": 77.40277689046087,
+    "category": "Streetwear"
+  },
+  {
+    "name": "House District",
+    "lat": 12.861808505471995,
+    "lon": 77.58147599856149,
+    "category": "Formal"
+  },
+  {
+    "name": "Metro Shop",
+    "lat": 13.120478452247237,
+    "lon": 77.70662538777793,
+    "category": "Casual"
+  },
+  {
+    "name": "City Store",
+    "lat": 12.826836776611124,
+    "lon": 77.46602254365176,
+    "category": "Formal"
+  },
+  {
+    "name": "Elite Corner",
+    "lat": 12.885586128551903,
+    "lon": 77.40278259627381,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Cotton Closet",
+    "lat": 13.064630595020656,
+    "lon": 77.44960481141038,
+    "category": "Formal"
+  },
+  {
+    "name": "Fit District",
+    "lat": 12.93374797896551,
+    "lon": 77.57638768014401,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Studio Shop",
+    "lat": 12.830620397701615,
+    "lon": 77.65287598809763,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Maxx House",
+    "lat": 13.084161737565145,
+    "lon": 77.62213583199785,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Modern Store",
+    "lat": 12.959720010766944,
+    "lon": 77.51827436119977,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Prime Works",
+    "lat": 12.962572851628961,
+    "lon": 77.61540695628632,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Street Hub",
+    "lat": 13.127326795206757,
+    "lon": 77.70919285973963,
+    "category": "Formal"
+  },
+  {
+    "name": "Style Hub",
+    "lat": 12.98387685674403,
+    "lon": 77.71158220102785,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Active Lab",
+    "lat": 13.127770845814165,
+    "lon": 77.48172912645434,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Street World",
+    "lat": 13.13329708471584,
+    "lon": 77.59738937020605,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Fab Store",
+    "lat": 13.045867186972123,
+    "lon": 77.44197752660894,
+    "category": "Denim"
+  },
+  {
+    "name": "Core Outlet",
+    "lat": 13.079703473144098,
+    "lon": 77.5524620773823,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Label House",
+    "lat": 12.978680171291444,
+    "lon": 77.78274894665192,
+    "category": "Denim"
+  },
+  {
+    "name": "Trend Outlet",
+    "lat": 13.126666334701836,
+    "lon": 77.40746778251147,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Cotton Lab",
+    "lat": 12.957275719410674,
+    "lon": 77.60977516603184,
+    "category": "Luxury"
+  },
+  {
+    "name": "House Centre",
+    "lat": 12.815626116170595,
+    "lon": 77.69708252851102,
+    "category": "Casual"
+  },
+  {
+    "name": "Luxury Shop",
+    "lat": 12.8302338821116,
+    "lon": 77.46235462743174,
+    "category": "Denim"
+  },
+  {
+    "name": "Modern Point",
+    "lat": 12.863900022389311,
+    "lon": 77.5496482377364,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Casual Wear",
+    "lat": 12.984645371771881,
+    "lon": 77.73942019183934,
+    "category": "Denim"
+  },
+  {
+    "name": "Active Gallery",
+    "lat": 12.838561946949332,
+    "lon": 77.49932238902751,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Street Store",
+    "lat": 12.909844827307658,
+    "lon": 77.69981044720791,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Metro Studio",
+    "lat": 12.954441088519049,
+    "lon": 77.71681363873745,
+    "category": "Denim"
+  },
+  {
+    "name": "Vintage Hub",
+    "lat": 12.844896550991082,
+    "lon": 77.52895848283615,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Boutique",
+    "lat": 12.912605278686266,
+    "lon": 77.50193209452134,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Sport Centre",
+    "lat": 13.047055758668025,
+    "lon": 77.57595799425279,
+    "category": "Luxury"
+  },
+  {
+    "name": "Core Room",
+    "lat": 12.998465347649049,
+    "lon": 77.64491841829576,
+    "category": "Luxury"
+  },
+  {
+    "name": "Sport Studio",
+    "lat": 13.109802401733843,
+    "lon": 77.69088341639112,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Elite Outlet",
+    "lat": 12.847544069090556,
+    "lon": 77.46413703676534,
+    "category": "Sneakers"
+  },
+  {
+    "name": "City Lane",
+    "lat": 13.005700832952032,
+    "lon": 77.41154573794338,
+    "category": "Sneakers"
+  },
+  {
+    "name": "House Shop",
+    "lat": 13.03082939526361,
+    "lon": 77.46807350386977,
+    "category": "Luxury"
+  },
+  {
+    "name": "Style Nation",
+    "lat": 12.870341413202755,
+    "lon": 77.6677722425695,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Co Hub",
+    "lat": 12.830086915389089,
+    "lon": 77.77407893789554,
+    "category": "Luxury"
+  },
+  {
+    "name": "Metro Shop",
+    "lat": 13.024958834843583,
+    "lon": 77.48652509655102,
+    "category": "Denim"
+  },
+  {
+    "name": "Capsule Nation",
+    "lat": 12.855602824432435,
+    "lon": 77.77349394030243,
+    "category": "Denim"
+  },
+  {
+    "name": "City Outlet",
+    "lat": 12.900551470545723,
+    "lon": 77.71743276999128,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sneaker Point",
+    "lat": 12.944954601041319,
+    "lon": 77.64939363485568,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Ethnic Centre",
+    "lat": 12.80270574976372,
+    "lon": 77.59938502130622,
+    "category": "Formal"
+  },
+  {
+    "name": "Studio Lane",
+    "lat": 12.83878149368865,
+    "lon": 77.6480531054507,
+    "category": "Denim"
+  },
+  {
+    "name": "Casual Outlet",
+    "lat": 12.836219006343123,
+    "lon": 77.69526069335826,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Studio",
+    "lat": 13.10406832658649,
+    "lon": 77.54739225998507,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Fab Lane",
+    "lat": 13.13323462229872,
+    "lon": 77.48359136450385,
+    "category": "Formal"
+  },
+  {
+    "name": "Ethnic Lane",
+    "lat": 12.824889683579537,
+    "lon": 77.7839521338201,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Silk Co",
+    "lat": 13.023098915700531,
+    "lon": 77.4883660588355,
+    "category": "Casual"
+  },
+  {
+    "name": "Fab House",
+    "lat": 13.138102987207606,
+    "lon": 77.74895460091452,
+    "category": "Denim"
+  },
+  {
+    "name": "Style Fashion",
+    "lat": 13.001903124453252,
+    "lon": 77.62368940712071,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Active Gallery",
+    "lat": 13.002631645152347,
+    "lon": 77.63258048715637,
+    "category": "Denim"
+  },
+  {
+    "name": "Fab Fashion",
+    "lat": 13.065845846085482,
+    "lon": 77.48392219579596,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Co Centre",
+    "lat": 13.05124384385546,
+    "lon": 77.47092419171788,
+    "category": "Formal"
+  },
+  {
+    "name": "Casual Factory",
+    "lat": 12.968164719977032,
+    "lon": 77.67533812717774,
+    "category": "Denim"
+  },
+  {
+    "name": "Metro Outlet",
+    "lat": 12.980166574610058,
+    "lon": 77.76942268706556,
+    "category": "Luxury"
+  },
+  {
+    "name": "Fab Wear",
+    "lat": 12.960924979360485,
+    "lon": 77.53825832228617,
+    "category": "Luxury"
+  },
+  {
+    "name": "Luxury Lane",
+    "lat": 12.978723078285665,
+    "lon": 77.52162254106877,
+    "category": "Denim"
+  },
+  {
+    "name": "Co Collective",
+    "lat": 12.981543828404398,
+    "lon": 77.5702728340047,
+    "category": "FastFashion"
+  },
+  {
+    "name": "House Gallery",
+    "lat": 12.879354200431884,
+    "lon": 77.5239362301586,
+    "category": "Casual"
+  },
+  {
+    "name": "Silk Nation",
+    "lat": 12.806762406549552,
+    "lon": 77.40906073630255,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Fit Room",
+    "lat": 12.807724389003742,
+    "lon": 77.58305858994167,
+    "category": "Denim"
+  },
+  {
+    "name": "Fit House",
+    "lat": 12.818241456149831,
+    "lon": 77.4827468156137,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Capsule Co",
+    "lat": 12.852308673932384,
+    "lon": 77.79240635975111,
+    "category": "Formal"
+  },
+  {
+    "name": "Prime Fashion",
+    "lat": 13.115279587390207,
+    "lon": 77.53033415336321,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Studio Boutique",
+    "lat": 12.873598867474955,
+    "lon": 77.40550140710319,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Silk Apparel",
+    "lat": 12.80567428682773,
+    "lon": 77.50079668545509,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Sneaker Nation",
+    "lat": 12.989470320513332,
+    "lon": 77.57961104430154,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Capsule Point",
+    "lat": 13.137353771560132,
+    "lon": 77.66134539795216,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Casual District",
+    "lat": 12.901197698550117,
+    "lon": 77.700873964242,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Sport House",
+    "lat": 13.095591764315861,
+    "lon": 77.66232100484685,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Prime Closet",
+    "lat": 13.054972167918532,
+    "lon": 77.45386824628405,
+    "category": "Formal"
+  },
+  {
+    "name": "Silk Gallery",
+    "lat": 12.832600692924725,
+    "lon": 77.77553051499477,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Elite World",
+    "lat": 12.842172342771853,
+    "lon": 77.55964297399115,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Sport World",
+    "lat": 13.007867528466155,
+    "lon": 77.74047827323162,
+    "category": "Luxury"
+  },
+  {
+    "name": "Ethnic Factory",
+    "lat": 12.84062516757282,
+    "lon": 77.63138314691882,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Ethnic Co",
+    "lat": 12.926426801570612,
+    "lon": 77.77452157712145,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Modern Wear",
+    "lat": 13.0417220441247,
+    "lon": 77.49953253459843,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Denim Centre",
+    "lat": 12.970234816453603,
+    "lon": 77.42925576795963,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Urban Point",
+    "lat": 12.862392046962412,
+    "lon": 77.40513607856103,
+    "category": "Denim"
+  },
+  {
+    "name": "Ethnic Market",
+    "lat": 12.887837770847495,
+    "lon": 77.52585834009182,
+    "category": "Casual"
+  },
+  {
+    "name": "Modern Store",
+    "lat": 12.945341599628131,
+    "lon": 77.73102090893997,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Prime Lab",
+    "lat": 12.920277441342158,
+    "lon": 77.69152327503139,
+    "category": "Luxury"
+  },
+  {
+    "name": "Elite Point",
+    "lat": 12.90105768053356,
+    "lon": 77.52380024947752,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sport Market",
+    "lat": 13.077704558061624,
+    "lon": 77.61718029355285,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Fab Collective",
+    "lat": 12.89167106600339,
+    "lon": 77.6541133953819,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Core World",
+    "lat": 12.885148190404283,
+    "lon": 77.74439755881869,
+    "category": "Formal"
+  },
+  {
+    "name": "Maxx World",
+    "lat": 13.030256025673276,
+    "lon": 77.69073198897482,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Label Fashion",
+    "lat": 12.878415569379785,
+    "lon": 77.7085094930747,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Active Centre",
+    "lat": 12.864791806486478,
+    "lon": 77.56343959851957,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Denim Apparel",
+    "lat": 12.825690368771777,
+    "lon": 77.76256904876003,
+    "category": "Luxury"
+  },
+  {
+    "name": "Metro Centre",
+    "lat": 12.992447080139257,
+    "lon": 77.64767110837742,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Style Collective",
+    "lat": 12.84975033874537,
+    "lon": 77.41204728669192,
+    "category": "Denim"
+  },
+  {
+    "name": "Label Co",
+    "lat": 12.90756645460288,
+    "lon": 77.60428332626462,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Maxx Factory",
+    "lat": 12.856983970100066,
+    "lon": 77.74719770645743,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Vintage Corner",
+    "lat": 12.837715133464208,
+    "lon": 77.7704056026015,
+    "category": "Denim"
+  },
+  {
+    "name": "Luxury Point",
+    "lat": 12.880829422013921,
+    "lon": 77.74182699012508,
+    "category": "Formal"
+  },
+  {
+    "name": "Silk Nation",
+    "lat": 13.039819826952211,
+    "lon": 77.6543269348542,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Active Lane",
+    "lat": 13.09088526435601,
+    "lon": 77.62886576785078,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Metro Corner",
+    "lat": 13.11710841646707,
+    "lon": 77.61571808267539,
+    "category": "Streetwear"
+  },
+  {
+    "name": "House Room",
+    "lat": 12.833185806210317,
+    "lon": 77.7095378552926,
+    "category": "Casual"
+  },
+  {
+    "name": "Denim Apparel",
+    "lat": 12.933728851389288,
+    "lon": 77.50341757767762,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Casual Closet",
+    "lat": 12.96617856215029,
+    "lon": 77.56779520772675,
+    "category": "Denim"
+  },
+  {
+    "name": "Sneaker Store",
+    "lat": 13.139935923741099,
+    "lon": 77.57954071451543,
+    "category": "Formal"
+  },
+  {
+    "name": "Fab Corner",
+    "lat": 13.059601009079795,
+    "lon": 77.52221038607435,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Cotton Store",
+    "lat": 12.902909891102876,
+    "lon": 77.69193715235926,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Sneaker Centre",
+    "lat": 12.955822226090456,
+    "lon": 77.58206265202985,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Elite Studio",
+    "lat": 12.850986786146857,
+    "lon": 77.44763758368946,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Classic Market",
+    "lat": 13.03715787957424,
+    "lon": 77.72397240415533,
+    "category": "Casual"
+  },
+  {
+    "name": "Fab Works",
+    "lat": 12.806108404665254,
+    "lon": 77.53897032421087,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Sneaker Closet",
+    "lat": 12.904429232682599,
+    "lon": 77.52790749207483,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Casual Nation",
+    "lat": 13.061920281547604,
+    "lon": 77.56267765732123,
+    "category": "Formal"
+  },
+  {
+    "name": "Co Factory",
+    "lat": 13.13752282384612,
+    "lon": 77.71523182398143,
+    "category": "Sportswear"
+  },
+  {
+    "name": "House Market",
+    "lat": 12.83274228300429,
+    "lon": 77.61961971413079,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Luxury Point",
+    "lat": 13.070829828653858,
+    "lon": 77.43218539481877,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Modern Centre",
+    "lat": 13.093205131028668,
+    "lon": 77.79892524124851,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Ethnic Lab",
+    "lat": 13.061633409233357,
+    "lon": 77.67630075633261,
+    "category": "Denim"
+  },
+  {
+    "name": "Metro District",
+    "lat": 12.966648659132224,
+    "lon": 77.68340592896517,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Sneaker Outlet",
+    "lat": 13.061064461642223,
+    "lon": 77.59244560797407,
+    "category": "Luxury"
+  },
+  {
+    "name": "Cotton Boutique",
+    "lat": 13.015600842686355,
+    "lon": 77.70688217823083,
+    "category": "Luxury"
+  },
+  {
+    "name": "Cotton Lane",
+    "lat": 12.844231459233464,
+    "lon": 77.67903912958782,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Maxx Lane",
+    "lat": 12.906741431192838,
+    "lon": 77.44570131628242,
+    "category": "Luxury"
+  },
+  {
+    "name": "Core Nation",
+    "lat": 13.011386157215696,
+    "lon": 77.46350988615922,
+    "category": "Casual"
+  },
+  {
+    "name": "Denim Wear",
+    "lat": 13.11290939108081,
+    "lon": 77.55956671438969,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Classic Hub",
+    "lat": 12.814373656154345,
+    "lon": 77.759073876267,
+    "category": "Casual"
+  },
+  {
+    "name": "Street Lane",
+    "lat": 12.81850028297696,
+    "lon": 77.62157639337958,
+    "category": "Casual"
+  },
+  {
+    "name": "Silk Centre",
+    "lat": 13.027717490236421,
+    "lon": 77.45151276733279,
+    "category": "Casual"
+  },
+  {
+    "name": "Luxury Closet",
+    "lat": 12.829389480148526,
+    "lon": 77.6203306226311,
+    "category": "Casual"
+  },
+  {
+    "name": "Co World",
+    "lat": 13.055227459395923,
+    "lon": 77.61256134964731,
+    "category": "Denim"
+  },
+  {
+    "name": "Maxx World",
+    "lat": 13.010483087898999,
+    "lon": 77.70723924461622,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Street Boutique",
+    "lat": 12.841144304304157,
+    "lon": 77.45947417353732,
+    "category": "Luxury"
+  },
+  {
+    "name": "Urban Market",
+    "lat": 12.999026175689135,
+    "lon": 77.54996935920876,
+    "category": "Luxury"
+  },
+  {
+    "name": "Ethnic Works",
+    "lat": 13.058780514180317,
+    "lon": 77.71008423571317,
+    "category": "Luxury"
+  },
+  {
+    "name": "Maxx Room",
+    "lat": 12.897015565010513,
+    "lon": 77.59462483903155,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Capsule Outlet",
+    "lat": 12.957554796660116,
+    "lon": 77.57566834254611,
+    "category": "Formal"
+  },
+  {
+    "name": "Trend Lab",
+    "lat": 12.838562422594492,
+    "lon": 77.42138833099202,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Fab Hub",
+    "lat": 12.899034935365487,
+    "lon": 77.56074410418285,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Core World",
+    "lat": 13.140077578084798,
+    "lon": 77.49026014379837,
+    "category": "Formal"
+  },
+  {
+    "name": "Fab World",
+    "lat": 13.044467179732552,
+    "lon": 77.54865442702098,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Cotton Store",
+    "lat": 12.853869545928333,
+    "lon": 77.67137273145313,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Fit District",
+    "lat": 12.835865877962785,
+    "lon": 77.64888230871364,
+    "category": "Luxury"
+  },
+  {
+    "name": "Maxx Factory",
+    "lat": 12.951990573496564,
+    "lon": 77.49814036242918,
+    "category": "Sportswear"
+  },
+  {
+    "name": "City Point",
+    "lat": 12.874058074672215,
+    "lon": 77.44448181495845,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Urban Market",
+    "lat": 12.893017392982241,
+    "lon": 77.43564828867032,
+    "category": "Casual"
+  },
+  {
+    "name": "Fit Boutique",
+    "lat": 12.90002848565569,
+    "lon": 77.77607609390664,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Co Apparel",
+    "lat": 12.840509077910422,
+    "lon": 77.50704711476494,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Maxx District",
+    "lat": 12.935905588144502,
+    "lon": 77.67952518552393,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Core Wear",
+    "lat": 12.93913427230057,
+    "lon": 77.69030346070302,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Denim District",
+    "lat": 12.821328783331886,
+    "lon": 77.53540141842915,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Capsule Studio",
+    "lat": 12.823340637797568,
+    "lon": 77.75963434083206,
+    "category": "Casual"
+  },
+  {
+    "name": "Prime Lane",
+    "lat": 12.893881119135743,
+    "lon": 77.55737902592169,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Core Outlet",
+    "lat": 12.803387370331935,
+    "lon": 77.65764610956039,
+    "category": "Formal"
+  },
+  {
+    "name": "Label Fashion",
+    "lat": 12.861863202039116,
+    "lon": 77.75400529917668,
+    "category": "Denim"
+  },
+  {
+    "name": "Capsule Studio",
+    "lat": 13.004465130293342,
+    "lon": 77.60793162170393,
+    "category": "Luxury"
+  },
+  {
+    "name": "Co Lab",
+    "lat": 12.803783107526993,
+    "lon": 77.76612535441203,
+    "category": "Luxury"
+  },
+  {
+    "name": "Classic Room",
+    "lat": 13.011147729543026,
+    "lon": 77.63909709822163,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Style Hub",
+    "lat": 12.844618094092429,
+    "lon": 77.51766936535114,
+    "category": "Casual"
+  },
+  {
+    "name": "Fab District",
+    "lat": 12.925000894007843,
+    "lon": 77.73311898084708,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Maxx Centre",
+    "lat": 12.900426732629866,
+    "lon": 77.62733111389112,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Sport Lane",
+    "lat": 12.834214108353871,
+    "lon": 77.74528098078078,
+    "category": "Formal"
+  },
+  {
+    "name": "Co Apparel",
+    "lat": 12.833351825595553,
+    "lon": 77.7995519198929,
+    "category": "Streetwear"
+  },
+  {
+    "name": "Sport Apparel",
+    "lat": 12.81563621334622,
+    "lon": 77.65379950307734,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Cotton District",
+    "lat": 12.969547984530756,
+    "lon": 77.50356163607886,
+    "category": "Formal"
+  },
+  {
+    "name": "Capsule Studio",
+    "lat": 13.092264880652406,
+    "lon": 77.59481456592799,
+    "category": "Denim"
+  },
+  {
+    "name": "Casual Boutique",
+    "lat": 13.125088733928596,
+    "lon": 77.7521360836566,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Vintage Market",
+    "lat": 13.034299503865936,
+    "lon": 77.58878733155169,
+    "category": "Sportswear"
+  },
+  {
+    "name": "Core Boutique",
+    "lat": 12.80192825796688,
+    "lon": 77.56352999499468,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Fit District",
+    "lat": 12.965487298611118,
+    "lon": 77.50921067962412,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Metro Store",
+    "lat": 13.002401691905632,
+    "lon": 77.71044795273043,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Sneaker World",
+    "lat": 12.866956045801624,
+    "lon": 77.52219108717307,
+    "category": "Sneakers"
+  },
+  {
+    "name": "Core Apparel",
+    "lat": 13.110515932655922,
+    "lon": 77.50606771978788,
+    "category": "Ethnic"
+  },
+  {
+    "name": "Fit Gallery",
+    "lat": 13.118430178808516,
+    "lon": 77.60450488629753,
+    "category": "FastFashion"
+  },
+  {
+    "name": "Luxury Collective",
+    "lat": 12.862926863191042,
+    "lon": 77.62991654683215,
+    "category": "FastFashion"
+  }
+]

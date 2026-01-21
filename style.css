@@ -1,0 +1,68 @@
+body {
+  background: #000;
+  color: #fff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+  margin: 20px;
+}
+
+h2, h3, h4, label {
+  color: #fff;
+  font-weight: 500;
+}
+
+button {
+  background: #111;
+  color: #fff;
+  border: 1px solid #333;
+  padding: 8px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  background: #181818;
+}
+
+input, select {
+  background: #0d0d0d;
+  border: 1px solid #333;
+  color: #fff;
+  padding: 6px;
+  border-radius: 4px;
+  width: 180px;
+}
+
+#map {
+  flex: 2 1 auto;
+  min-width: 650px;
+  height: 70vh;
+  border: 1px solid #333;
+}
+
+#sidebar {
+  flex: 1 0 300px;
+  height: 70vh;
+  overflow-y: auto;
+  border: 1px solid #333;
+  padding: 10px;
+  background: #0d0d0d;
+}
+
+#shopList {
+  font-size: 14px;
+}
+
+#shopList div {
+  padding: 6px 0;
+  border-bottom: 1px solid #222;
+  cursor: pointer;
+}
+
+#shopList div:last-child {
+  border-bottom: none;
+}
+
+#shopList div:hover {
+  background: #111;
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TravellerShops</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="leaflet.css">
+
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+
+    #map {
+      flex: 2 1 auto;
+      min-width: 650px;
+      height: 70vh;
+      border: 1px solid #ccc;
+    }
+
+    #sidebar {
+      flex: 1 0 300px;
+      height: 70vh;
+      overflow-y: auto;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h2>Shop Finder</h2>
+
+<button onclick="locateUser()">Locate Me</button>
+<br><br>
+
+<label>User Latitude:</label>
+<input id="ulat" type="number" step="0.000001"><br><br>
+
+<label>User Longitude:</label>
+<input id="ulon" type="number" step="0.000001"><br><br>
+
+<label>Radius (km):</label>
+<input id="radius" type="number" value="2"><br><br>
+
+<label>Category:</label>
+<select id="category">
+  <option value="ALL">ALL</option>
+  <option value="Casual">Casual</option>
+  <option value="Sneakers">Sneakers</option>
+  <option value="Ethnic">Ethnic</option>
+  <option value="Denim">Denim</option>
+  <option value="Sportswear">Sportswear</option>
+  <option value="Formal">Formal</option>
+  <option value="Luxury">Luxury</option>
+  <option value="FastFashion">FastFashion</option>
+  <option value="Streetwear">Streetwear</option>
+</select>
+
+<br><br>
+<button onclick="runQuery()">Search</button>
+<br><br>
+
+<div style="display:flex; gap:10px; align-items:flex-start;">
+  
+  <div id="map"></div>
+
+  <div id="sidebar">
+    <h4>Nearby Shops</h4>
+    <div id="shopList">Press Search to load results</div>
+  </div>
+
+</div>
+
+<script src="leaflet.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
