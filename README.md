@@ -40,7 +40,5 @@ No backend, no database, no accounts. Just static data + logic.
 
 No frameworks, no backend server.
 
----
 
-## 📁 Project Structure
 
